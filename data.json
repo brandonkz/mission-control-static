@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/12, 14:04:10",
+  "updated": "2026/04/12, 16:04:54",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,7 +3645,15 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "ppend error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T18:35:21.974Z|27718808896|27718808896|Basa fish (~150g)|180|36|0|4|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T12:11:50.319Z|27713621806|27713621806|2x Americano with milk and sweeteners|80|4|8|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T12:09:56.089Z|27713621806|27713621806|Chicken breast on the bone (~130g)|200|38|0|5|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T12:09:47.472Z|27713621806|27713621806|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
@@ -3654,14 +3662,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T09:57:31.990Z|27626321027|27626321027|4x Weet-Bix biscuits with milk (~200ml)|320|10|60|5|8|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:53:47.999Z|27713621806|27713621806|Dashboard link (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:17:41.234Z|27765141012|27765141012|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
