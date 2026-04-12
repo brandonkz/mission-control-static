@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/12, 10:04:39",
+  "updated": "2026/04/12, 12:04:34",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 4m",
+      "val": "9h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "ppend error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-04T18:35:21.974Z|27718808896|27718808896|Basa fish (~150g)|180|36|0|4|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T10:02:07.560Z|27626321027|27626321027|Weet-Bix biscuit|400|5|40|15|1|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T09:57:31.990Z|27626321027|27626321027|4x Weet-Bix biscuits with milk (~200ml)|320|10|60|5|8|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:53:47.999Z|27713621806|27713621806|Dashboard link (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:17:41.234Z|27765141012|27765141012|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:16:57.423Z|27765141012|27765141012|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:58.285Z|27828726644|27828726644|flapjack (~50g)|200|3|30|8|2|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:43.425Z|27828726644|27828726644|Black coffee (1 cup, ~240ml) with 1 sweetener|2|0|0|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
