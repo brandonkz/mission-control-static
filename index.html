@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mission Control | Brandon Katz</title>
+  <style>
+    :root { --bg: #0a0a0a; --surface: #111; --border: #1e1e1e; --text: #e8e8e8; --muted: #888; --green: #10b981; --blue: #3b82f6; --red: #ef4444; --orange: #f59e0b; --purple: #a855f7; }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, system-ui, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); line-height: 1.5; }
+    #login { display: flex; align-items: center; justify-content: center; min-height: 100vh; }
+    #login input { padding: 14px 20px; background: var(--surface); border: 1px solid var(--border); border-radius: 12px; color: var(--text); font-size: 1rem; width: 280px; }
+    #login button { padding: 14px 24px; background: var(--green); border: none; border-radius: 12px; color: #000; font-weight: 700; cursor: pointer; margin-left: 10px; }
+    #app { display: none; max-width: 1200px; margin: 0 auto; padding: 20px; }
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--border); }
+    .header h1 { font-size: 1.5rem; }
+    .header .updated { font-size: 0.8rem; color: var(--muted); }
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); }
+    .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; }
+    .card h2 { font-size: 1.1rem; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+    .card h2 .dot { width: 8px; height: 8px; border-radius: 50%; }
+    .stat-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.9rem; }
+    .stat-row:last-child { border-bottom: none; }
+    .stat-val { font-weight: 600; }
+    .stat-val.green { color: var(--green); }
+    .stat-val.blue { color: var(--blue); }
+    .stat-val.red { color: var(--red); }
+    .stat-val.orange { color: var(--orange); }
+    .stat-val.purple { color: var(--purple); }
+    .idea { padding: 10px 0; border-bottom: 1px solid var(--border); }
+    .idea:last-child { border-bottom: none; }
+    .idea-name { font-weight: 600; font-size: 0.95rem; }
+    .idea-status { font-size: 0.8rem; color: var(--muted); }
+    .idea-rev { font-size: 0.8rem; color: var(--green); }
+    .tag { display: inline-block; padding: 2px 8px; border-radius: 99px; font-size: 0.75rem; font-weight: 600; }
+    .tag-live { background: rgba(16,185,129,0.15); color: var(--green); }
+    .tag-wip { background: rgba(245,158,11,0.15); color: var(--orange); }
+    .tag-idea { background: rgba(136,136,136,0.15); color: var(--muted); }
+    .tag-paused { background: rgba(239,68,68,0.15); color: var(--red); }
+    .cron-item { padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 0.85rem; }
+    .cron-item:last-child { border-bottom: none; }
+    .cron-time { color: var(--muted); font-family: monospace; font-size: 0.8rem; }
+    .full-width { grid-column: 1 / -1; }
+    a { color: var(--green); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } #app { padding: 12px; } }
+  </style>
+</head>
+<body>
+
+<div id="login">
+  <form onsubmit="tryLogin(event)">
+    <input type="password" id="pw" placeholder="Password" autofocus />
+    <button type="submit">→</button>
+  </form>
+</div>
+
+<div id="app">
+  <div class="header">
+    <h1>🦅 Mission Control</h1>
+    <div>
+      <span class="updated" id="last-updated"></span>
+    </div>
+  </div>
+
+  <div class="grid" id="content"></div>
+</div>
+
+<script>
+const PW = 'milan2026';
+
+function tryLogin(e) {
+  e.preventDefault();
+  if (document.getElementById('pw').value === PW) {
+    document.getElementById('login').style.display = 'none';
+    document.getElementById('app').style.display = 'block';
+    loadData();
+  } else {
+    document.getElementById('pw').style.borderColor = '#ef4444';
+  }
+}
+
+async function loadData() {
+  try {
+    const res = await fetch('data.json?' + Date.now());
+    const d = await res.json();
+    render(d);
+  } catch (err) {
+    document.getElementById('content').innerHTML = '<div class="card full-width"><p>Failed to load data. Try refreshing.</p></div>';
+  }
+}
+
+async function render(d) {
+  document.getElementById('last-updated').textContent = 'Updated: ' + d.updated;
+  
+  let html = '';
+
+  // Projects
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--green)"></span>Active Projects</h2>
+    ${d.projects.map(p => `
+      <div class="stat-row">
+        <div>
+          <span class="tag tag-${p.status}">${p.status.toUpperCase()}</span>
+          <a href="${p.url}" target="_blank">${p.name}</a>
+        </div>
+        <span class="stat-val ${p.trafficColor || ''}">${p.traffic || ''}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  // FitSorted Live Stats (from fitsorted-stats.json)
+  try {
+    const fsRes = await fetch('fitsorted-stats.json?' + Date.now());
+    const fs = await fsRes.json();
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--green)"></span>FitSorted Live</h2>
+      <div class="stat-row"><span>Total Users</span><span class="stat-val green">${fs.totalUsers}</span></div>
+      <div class="stat-row"><span>Signups Today</span><span class="stat-val blue">${fs.signupsToday}</span></div>
+      <div class="stat-row"><span>Signups This Week</span><span class="stat-val purple">${fs.signupsThisWeek}</span></div>
+      <div class="stat-row"><span>Active Today</span><span class="stat-val orange">${fs.activeToday}</span></div>
+      <div class="stat-row"><span>Active This Week</span><span class="stat-val orange">${fs.activeWeek}</span></div>
+      <div class="stat-row"><span>Food Logs Today</span><span class="stat-val blue">${fs.logsToday}</span></div>
+      <div class="stat-row"><span>Total Logs All Time</span><span class="stat-val green">${fs.totalLogsAllTime.toLocaleString()}</span></div>
+      <div class="stat-row"><span>Pro Users</span><span class="stat-val green">${fs.proUsers}</span></div>
+      <div class="stat-row"><span style="color:var(--muted);font-size:0.75rem">Updated ${new Date(fs.updatedAt).toLocaleTimeString('en-ZA')}</span><span></span></div>
+    </div>`;
+    
+    // Recent signups card
+    if (fs.recentSignups && fs.recentSignups.length > 0) {
+      html += `<div class="card">
+        <h2><span class="dot" style="background:var(--blue)"></span>Recent Signups</h2>
+        ${fs.recentSignups.map(u => {
+          const when = u.created ? new Date(u.created).toLocaleDateString('en-ZA', {day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'}) : '?';
+          return `<div class="stat-row">
+            <span>${u.name} ${u.setup ? '✅' : '⏳'}</span>
+            <span class="stat-val" style="color:var(--muted);font-size:0.8rem">${when}</span>
+          </div>`;
+        }).join('')}
+      </div>`;
+    }
+    
+    // Signup chart
+    if (fs.signupsByDay) {
+      const days = Object.entries(fs.signupsByDay).sort((a,b) => a[0].localeCompare(b[0]));
+      const maxSignups = Math.max(...days.map(d => d[1]));
+      html += `<div class="card">
+        <h2><span class="dot" style="background:var(--purple)"></span>Signups by Day</h2>
+        ${days.map(([day, count]) => {
+          const pct = Math.round((count / maxSignups) * 100);
+          const label = new Date(day + 'T12:00:00').toLocaleDateString('en-ZA', {weekday:'short',day:'numeric',month:'short'});
+          return `<div style="display:flex;align-items:center;gap:10px;padding:4px 0;font-size:0.85rem;">
+            <span style="width:90px;color:var(--muted)">${label}</span>
+            <div style="flex:1;background:var(--border);border-radius:4px;height:20px;overflow:hidden">
+              <div style="width:${pct}%;background:var(--green);height:100%;border-radius:4px;min-width:2px"></div>
+            </div>
+            <span style="width:24px;text-align:right;font-weight:600;color:var(--green)">${count}</span>
+          </div>`;
+        }).join('')}
+      </div>`;
+    }
+  } catch(e) { console.log('No FitSorted live stats'); }
+
+  // FitSorted Stats (from data.json fallback)
+  if (d.fitsorted) {
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--green)"></span>FitSorted Details</h2>
+    ${Object.entries(d.fitsorted).map(([k, v]) => `
+      <div class="stat-row">
+        <span>${k}</span>
+        <span class="stat-val ${v.color || 'green'}">${v.val}</span>
+      </div>
+    `).join('')}
+  </div>`;
+  }
+
+  // FitSorted Users
+  if (d.fitsortedUsers && d.fitsortedUsers.length > 0) {
+    html += `<div class="card full-width">
+      <h2><span class="dot" style="background:var(--green)"></span>FitSorted Users</h2>
+      <div style="overflow-x:auto;">
+      <table style="width:100%;border-collapse:collapse;font-size:0.85rem;">
+        <tr style="border-bottom:1px solid var(--border);color:var(--muted);text-align:left;">
+          <th style="padding:8px 6px;">Name</th>
+          <th style="padding:8px 6px;">Age</th>
+          <th style="padding:8px 6px;">Phone</th>
+          <th style="padding:8px 6px;">Email</th>
+          <th style="padding:8px 6px;">Logs</th>
+          <th style="padding:8px 6px;">Goal</th>
+          <th style="padding:8px 6px;">Joined</th>
+          <th style="padding:8px 6px;">Last Active</th>
+          <th style="padding:8px 6px;">Status</th>
+        </tr>
+        ${d.fitsortedUsers.map(u => `
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:8px 6px;font-weight:600;">${u.name} ${u.gender === 'female' ? '♀' : u.gender === 'male' ? '♂' : ''}</td>
+            <td style="padding:8px 6px;">${u.age || '-'}</td>
+            <td style="padding:8px 6px;font-family:monospace;font-size:0.8rem;">${u.phone}</td>
+            <td style="padding:8px 6px;font-size:0.8rem;">${u.email ? '<span style="color:var(--green);">' + u.email + '</span>' : '<span style="color:var(--muted);">-</span>'}</td>
+            <td style="padding:8px 6px;">${u.logs}</td>
+            <td style="padding:8px 6px;">${u.goal} cal</td>
+            <td style="padding:8px 6px;">${u.joined}</td>
+            <td style="padding:8px 6px;">${u.lastActive}</td>
+            <td style="padding:8px 6px;">
+              ${u.premium ? '<span class="tag tag-live">PRO</span>' : u.active7d ? '<span class="tag tag-wip">ACTIVE</span>' : '<span class="tag tag-paused">INACTIVE</span>'}
+            </td>
+          </tr>
+        `).join('')}
+      </table>
+      </div>
+    </div>`;
+  }
+
+  // Top Foods
+  if (d.fitsortedTopFoods && d.fitsortedTopFoods.length > 0) {
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--green)"></span>Top Foods Logged</h2>
+      ${d.fitsortedTopFoods.map(([food, count], i) => `
+        <div class="stat-row">
+          <span>${i + 1}. ${food}</span>
+          <span class="stat-val blue">${count}x</span>
+        </div>
+      `).join('')}
+    </div>`;
+  }
+
+  // FitSorted Errors
+  if (d.fitsortedErrors && d.fitsortedErrors.length > 0) {
+    html += `<div class="card">
+      <h2><span class="dot" style="background:var(--red)"></span>Recent Errors</h2>
+      ${d.fitsortedErrors.map(e => `
+        <div class="stat-row">
+          <span style="font-size:0.8rem;font-family:monospace;word-break:break-all;">${e.error}</span>
+          <span class="stat-val red">${e.count}x</span>
+        </div>
+      `).join('')}
+    </div>`;
+  }
+
+  // Google Analytics
+  if (d.analytics && Object.keys(d.analytics).length > 0) {
+    html += `<div class="card full-width">
+      <h2><span class="dot" style="background:var(--blue)"></span>Google Analytics</h2>
+      <div style="overflow-x:auto;">
+      <table style="width:100%;border-collapse:collapse;font-size:0.85rem;">
+        <tr style="border-bottom:1px solid var(--border);color:var(--muted);text-align:left;">
+          <th style="padding:10px 8px;" rowspan="2">Site</th>
+          <th style="padding:6px 8px;text-align:center;color:var(--orange);border-bottom:1px solid var(--border);" colspan="3">Yesterday</th>
+          <th style="padding:6px 8px;text-align:center;color:var(--blue);border-bottom:1px solid var(--border);" colspan="3">Last 7 Days</th>
+        </tr>
+        <tr style="border-bottom:1px solid var(--border);color:var(--muted);">
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Sessions</th>
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Users</th>
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Views</th>
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Sessions</th>
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Users</th>
+          <th style="padding:6px 8px;text-align:right;font-size:0.75rem;">Views</th>
+        </tr>
+        ${Object.entries(d.analytics).map(([site, data]) => `
+          <tr style="border-bottom:1px solid var(--border);">
+            <td style="padding:10px 8px;font-weight:600;">${site}</td>
+            <td style="padding:10px 8px;text-align:right;"><span class="stat-val orange">${data.daily.sessions}</span></td>
+            <td style="padding:10px 8px;text-align:right;">${data.daily.users}</td>
+            <td style="padding:10px 8px;text-align:right;">${data.daily.pageviews}</td>
+            <td style="padding:10px 8px;text-align:right;"><span class="stat-val blue">${data.weekly.sessions}</span></td>
+            <td style="padding:10px 8px;text-align:right;">${data.weekly.users}</td>
+            <td style="padding:10px 8px;text-align:right;">${data.weekly.pageviews}</td>
+          </tr>
+        `).join('')}
+        <tr style="font-weight:700;border-top:2px solid var(--border);">
+          <td style="padding:10px 8px;">Total</td>
+          <td style="padding:10px 8px;text-align:right;"><span class="stat-val orange">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.daily?.sessions || 0), 0)}</span></td>
+          <td style="padding:10px 8px;text-align:right;">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.daily?.users || 0), 0)}</td>
+          <td style="padding:10px 8px;text-align:right;">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.daily?.pageviews || 0), 0)}</td>
+          <td style="padding:10px 8px;text-align:right;"><span class="stat-val blue">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.weekly?.sessions || 0), 0)}</span></td>
+          <td style="padding:10px 8px;text-align:right;">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.weekly?.users || 0), 0)}</td>
+          <td style="padding:10px 8px;text-align:right;">${Object.values(d.analytics).reduce((s, x) => s + parseInt(x.weekly?.pageviews || 0), 0)}</td>
+        </tr>
+      </table>
+      </div>
+    </div>`;
+  }
+
+  // Revenue
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--orange)"></span>Revenue</h2>
+    ${Object.entries(d.revenue).map(([k, v]) => `
+      <div class="stat-row">
+        <span>${k}</span>
+        <span class="stat-val ${v.color || ''}">${v.val}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  // Crypto Casinos
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--purple)"></span>Crypto Casino Tracker</h2>
+    ${Object.entries(d.cryptoCasinos).map(([k, v]) => `
+      <div class="stat-row">
+        <span>${k}</span>
+        <span class="stat-val ${v.color || ''}">${v.val}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  // Automations
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--blue)"></span>Automations</h2>
+    ${d.automations.map(a => `
+      <div class="cron-item">
+        <span class="cron-time">${a.time}</span> ${a.name}
+        <span class="tag tag-${a.enabled ? 'live' : 'paused'}">${a.enabled ? 'ON' : 'OFF'}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  // API Credits
+  html += `<div class="card">
+    <h2><span class="dot" style="background:var(--orange)"></span>API Credits</h2>
+    ${Object.entries(d.apiCredits).map(([k, v]) => `
+      <div class="stat-row">
+        <span>${k}</span>
+        <span class="stat-val ${v.color || ''}">${v.val}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  // Ideas
+  html += `<div class="card full-width">
+    <h2><span class="dot" style="background:var(--muted)"></span>Ideas Pipeline</h2>
+    <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
+    ${d.ideas.map(i => `
+      <div class="idea">
+        <div class="idea-name">${i.emoji || ''} ${i.name}</div>
+        <div class="idea-status"><span class="tag tag-${i.status}">${i.status.toUpperCase()}</span> ${i.buildTime || ''}</div>
+        <div class="idea-rev">${i.revenue || ''}</div>
+      </div>
+    `).join('')}
+    </div>
+  </div>`;
+
+  // Quick Links
+  if (d.quickLinks && d.quickLinks.length > 0) {
+    html += `<div class="card full-width">
+      <h2><span class="dot" style="background:var(--green)"></span>Quick Links</h2>
+      <div class="grid" style="grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px;">
+      ${d.quickLinks.map(section => `
+        <div style="padding: 8px 0;">
+          <div style="font-size: 0.8rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 8px;">${section.section}</div>
+          ${section.links.map(l => `
+            <div style="padding: 5px 0;">
+              <a href="${l.url}" target="_blank" style="font-size: 0.9rem;">${l.icon} ${l.name}</a>
+            </div>
+          `).join('')}
+        </div>
+      `).join('')}
+      </div>
+    </div>`;
+  }
+
+  // TODOs
+  html += `<div class="card full-width">
+    <h2><span class="dot" style="background:var(--red)"></span>Open TODOs</h2>
+    ${d.todos.map(t => `
+      <div class="stat-row">
+        <span>${t}</span>
+      </div>
+    `).join('')}
+  </div>`;
+
+  document.getElementById('content').innerHTML = html;
+}
+</script>
+</body>
+</html>
