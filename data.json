@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/12, 02:04:52",
+  "updated": "2026/04/12, 10:04:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "23h 4m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "6",
+      "val": "9",
       "color": "orange"
     },
     "Food Database": {
@@ -3645,23 +3645,23 @@
   "fitsortedErrors": [
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T23:29:45.444Z|27626321027|27626321027|L want to enter a calorie deficit (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:53:47.999Z|27713621806|27713621806|Dashboard link (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T23:23:12.105Z|27626321027|27626321027|Not to build muscle (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:17:41.234Z|27765141012|27765141012|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T23:21:55.614Z|27626321027|27626321027|L meant now the plan should be focused on only loading belly fat (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T06:16:57.423Z|27765141012|27765141012|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T23:20:00.727Z|27626321027|27626321027|L just asked chatgpt about how much calories l should burn to lose belly fat it said 1900 calories|1900|0|0|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:58.285Z|27828726644|27828726644|flapjack (~50g)|200|3|30|8|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-11T18:09:22.955Z|27722544781|27722544781|Hudsons burger and disco fries (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:43.425Z|27828726644|27828726644|Black coffee (1 cup, ~240ml) with 1 sweetener|2|0|0|0|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,323",
+      "val": "987",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.3M",
+      "val": "$0.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "8 (>$10K)",
+      "val": "0 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "8",
+      "val": "892",
       "color": "blue"
     }
   },
