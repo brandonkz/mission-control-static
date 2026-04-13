@@ -2,10 +2,10 @@
   "totalUsers": 258,
   "setupComplete": 225,
   "proUsers": 1,
-  "activeToday": 0,
-  "activeWeek": 19,
-  "logsToday": 0,
-  "totalLogsAllTime": 1829,
+  "activeToday": 3,
+  "activeWeek": 17,
+  "logsToday": 7,
+  "totalLogsAllTime": 1836,
   "signupsToday": 0,
   "signupsThisWeek": 8,
   "signupsByDay": {
@@ -102,5 +102,5 @@
       "setup": true
     }
   ],
-  "updatedAt": "2026-04-12T22:10:01.588Z"
+  "updatedAt": "2026-04-13T14:00:02.237Z"
 }
