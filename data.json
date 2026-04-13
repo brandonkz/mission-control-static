@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/13, 02:13:55",
+  "updated": "2026/04/13, 04:05:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "23h 13m",
+      "val": "1h 5m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "9",
+      "val": "11",
       "color": "orange"
     },
     "Food Database": {
