@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/13, 14:04:36",
+  "updated": "2026/04/13, 18:04:18",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "15h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T13:45:37.659Z|27713621806|27713621806|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T13:45:32.473Z|27713621806|27713621806|2 Scrambled Eggs (with butter)|200|12|2|15|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T09:40:01.386Z|27834117861|27834117861|Grapes (handful, ~80g)|55|1|14|0|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T09:36:54.683Z|27834117861|27834117861|Mochachos Chicken Mayo Wrap (~250g)|600|30|60|30|5|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T07:48:37.139Z|27713621806|27713621806|Can you send me the dashboard link (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T07:48:01.177Z|27713621806|27713621806|2x sweetener (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
