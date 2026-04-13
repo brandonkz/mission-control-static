@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/13, 04:05:04",
+  "updated": "2026/04/13, 08:04:16",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "1h 5m",
+      "val": "5h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3645,6 +3645,10 @@
   "fitsortedErrors": [
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T04:08:59.735Z|27721119984|27721119984|Hello"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T16:04:37.318Z|27713621806|27713621806|1/2 Kit Kat McFlurry (~150g)|250|4|35|12|1|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3658,10 +3662,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T12:09:47.472Z|27713621806|27713621806|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|1|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T10:02:07.560Z|27626321027|27626321027|Weet-Bix biscuit|400|5|40|15|1|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,414",
+      "val": "876",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.3M",
+      "val": "$0.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "10 (>$10K)",
+      "val": "0 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "8",
+      "val": "768",
       "color": "blue"
     }
   },
