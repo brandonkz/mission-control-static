@@ -1,11 +1,11 @@
 {
-  "updated": "2026/04/14, 00:04:32",
+  "updated": "2026/04/14, 02:05:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "2 active",
       "trafficColor": "green"
     },
     {
@@ -68,8 +68,8 @@
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
-      "color": "green"
+      "val": "2",
+      "color": "orange"
     },
     "Premium Users": {
       "val": "1",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 4m",
+      "val": "23h 5m",
       "color": "blue"
     },
     "Restarts": {
@@ -130,7 +130,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-04-07T13:28:15.052Z"
     },
     {
@@ -641,7 +641,7 @@
       "gender": "female",
       "email": "vickywidegger@gmail.com",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T18:38:39.277Z"
     },
     {
@@ -1342,7 +1342,7 @@
       "gender": "male",
       "email": "andrew@threezero.co.za",
       "premium": true,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T07:37:50.085Z"
     },
     {
@@ -2273,7 +2273,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-03-23T04:29:04.633Z"
     },
     {
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "876",
+      "val": "3,380",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$2.2M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "20 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "768",
+      "val": "8",
       "color": "blue"
     }
   },
