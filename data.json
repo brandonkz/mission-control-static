@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/14, 14:04:28",
+  "updated": "2026/04/14, 16:04:50",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "11h 4m",
+      "val": "13h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T08:51:08.126Z|27781680976|27781680976|Large 4 seasons pizza (~400g)|1000|40|120|40|8|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T12:53:41.963Z|27712815563|27712815563|Queens cake (~100g)|350|4|50|15|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T06:09:59.119Z|27713621806|27713621806|Americano with milk (250ml) and 2 sweeteners|50|2|5|1|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T12:49:55.547Z|27712815563|27712815563|2x Nutritech diet meal replacement (2 scoops, ~80g)|320|40|40|10|8|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T17:34:02.155Z|27713621806|27713621806|Pasta (1 cup cooked) (1 cup)|200|7|40|1|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T12:24:38.469Z|27712815563|27712815563|Bagel (~100g) with egg (~70g) and bacon (~30g)|344|14|35|18|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T17:20:01.823Z|27713621806|27713621806|Pasta (1 cup cooked, ~200g) with chicken breast (~150g) and mushrooms (~100g)|550|40|70|15|3|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T12:23:36.080Z|27781680976|27781680976|Steers beef burger (1 burger)|520|26|45|26|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
