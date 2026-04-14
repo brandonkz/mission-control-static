@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/14, 08:04:12",
+  "updated": "2026/04/14, 12:04:29",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "9h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T08:51:08.126Z|27781680976|27781680976|Large 4 seasons pizza (~400g)|1000|40|120|40|8|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T06:09:59.119Z|27713621806|27713621806|Americano with milk (250ml) and 2 sweeteners|50|2|5|1|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T17:34:02.155Z|27713621806|27713621806|Pasta (1 cup cooked) (1 cup)|200|7|40|1|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T17:20:01.823Z|27713621806|27713621806|Pasta (1 cup cooked, ~200g) with chicken breast (~150g) and mushrooms (~100g)|550|40|70|15|3|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T13:45:37.659Z|27713621806|27713621806|Toast (white bread, 2 slices) (2 slices)|160|5|30|2|2|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-13T13:45:32.473Z|27713621806|27713621806|2 Scrambled Eggs (with butter)|200|12|2|15|0|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
