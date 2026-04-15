@@ -1,13 +1,13 @@
 {
-  "totalUsers": 258,
-  "setupComplete": 225,
+  "totalUsers": 262,
+  "setupComplete": 229,
   "proUsers": 1,
-  "activeToday": 1,
-  "activeWeek": 16,
-  "logsToday": 1,
-  "totalLogsAllTime": 1838,
+  "activeToday": 0,
+  "activeWeek": 15,
+  "logsToday": 0,
+  "totalLogsAllTime": 1856,
   "signupsToday": 0,
-  "signupsThisWeek": 7,
+  "signupsThisWeek": 9,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -38,9 +38,34 @@
     "2026-04-09": 1,
     "2026-04-10": 2,
     "2026-04-11": 1,
-    "2026-04-12": 1
+    "2026-04-12": 1,
+    "2026-04-14": 4
   },
   "recentSignups": [
+    {
+      "phone": "277***81",
+      "name": "NO I eat 2200-2400 cal",
+      "created": "2026-04-14T17:22:35.282Z",
+      "setup": true
+    },
+    {
+      "phone": "277***63",
+      "name": "Tolu",
+      "created": "2026-04-14T12:19:50.474Z",
+      "setup": true
+    },
+    {
+      "phone": "277***76",
+      "name": "Marinus",
+      "created": "2026-04-14T08:48:15.951Z",
+      "setup": true
+    },
+    {
+      "phone": "277***31",
+      "name": "Michael",
+      "created": "2026-04-14T08:25:26.443Z",
+      "setup": true
+    },
     {
       "phone": "278***44",
       "name": "Dean",
@@ -76,31 +101,7 @@
       "name": "Cameron",
       "created": "2026-04-07T16:17:57.804Z",
       "setup": true
-    },
-    {
-      "phone": "277***86",
-      "name": "Rafique",
-      "created": "2026-04-07T13:28:15.052Z",
-      "setup": true
-    },
-    {
-      "phone": "278***21",
-      "name": "Tristan",
-      "created": "2026-04-06T15:48:13.004Z",
-      "setup": true
-    },
-    {
-      "phone": "268***21",
-      "name": "Sonia",
-      "created": "2026-04-04T15:19:01.951Z",
-      "setup": true
-    },
-    {
-      "phone": "278***97",
-      "name": "Tom",
-      "created": "2026-04-01T17:11:00.851Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-14T08:05:01.606Z"
+  "updatedAt": "2026-04-15T02:05:01.153Z"
 }
