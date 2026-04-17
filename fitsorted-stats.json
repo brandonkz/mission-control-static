@@ -1,13 +1,13 @@
 {
-  "totalUsers": 263,
-  "setupComplete": 229,
+  "totalUsers": 267,
+  "setupComplete": 231,
   "proUsers": 1,
-  "activeToday": 2,
-  "activeWeek": 15,
-  "logsToday": 7,
-  "totalLogsAllTime": 1863,
-  "signupsToday": 1,
-  "signupsThisWeek": 10,
+  "activeToday": 0,
+  "activeWeek": 13,
+  "logsToday": 0,
+  "totalLogsAllTime": 1880,
+  "signupsToday": 0,
+  "signupsThisWeek": 13,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -40,9 +40,34 @@
     "2026-04-11": 1,
     "2026-04-12": 1,
     "2026-04-14": 4,
-    "2026-04-15": 1
+    "2026-04-15": 1,
+    "2026-04-16": 4
   },
   "recentSignups": [
+    {
+      "phone": "277***39",
+      "name": "anon",
+      "created": "2026-04-16T11:03:10.161Z",
+      "setup": false
+    },
+    {
+      "phone": "276***94",
+      "name": "Edward",
+      "created": "2026-04-16T10:36:37.960Z",
+      "setup": true
+    },
+    {
+      "phone": "278***95",
+      "name": "anon",
+      "created": "2026-04-16T06:43:58.001Z",
+      "setup": false
+    },
+    {
+      "phone": "278***79",
+      "name": "Stuart",
+      "created": "2026-04-16T06:07:29.186Z",
+      "setup": true
+    },
     {
       "phone": "277***97",
       "name": "anon",
@@ -78,31 +103,7 @@
       "name": "Dean",
       "created": "2026-04-12T05:44:51.821Z",
       "setup": true
-    },
-    {
-      "phone": "277***12",
-      "name": "Leanne",
-      "created": "2026-04-11T09:11:28.792Z",
-      "setup": true
-    },
-    {
-      "phone": "276***27",
-      "name": "Nigel",
-      "created": "2026-04-10T18:04:34.846Z",
-      "setup": true
-    },
-    {
-      "phone": "277***06",
-      "name": "Which is the best for my age, aggressive or normal",
-      "created": "2026-04-10T08:19:53.568Z",
-      "setup": true
-    },
-    {
-      "phone": "278***58",
-      "name": "Charmaine",
-      "created": "2026-04-09T10:25:32.067Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-15T18:00:01.774Z"
+  "updatedAt": "2026-04-17T16:03:06.690Z"
 }
