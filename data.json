@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/15, 16:05:07",
+  "updated": "2026/04/17, 15:36:05",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,11 +92,11 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "13h 5m",
+      "val": "12h 36m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "16",
+      "val": "18",
       "color": "orange"
     },
     "Food Database": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T18:15:30.876Z|27712815563|27712815563|Wall (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-16T15:04:01.924Z|27781680976|27781680976|Panarotti pizza (~300g)|800|30|90|35|4|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T18:01:23.339Z|27781680976|27781680976|Otherwise  I hope to speak to you soon (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-16T14:26:21.284Z|27713621806|27713621806|1x Bar One chocolate (50g)|240|4|34|10|1|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T18:01:19.309Z|27781680976|27781680976|it is still best to contact Gardmed 041 373 6777 (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-16T14:26:04.669Z|27713621806|27713621806|Cucumber (1 medium, ~150g) with dressing (~30g)|50|1|10|4|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-14T18:01:14.778Z|27781680976|27781680976|For after hour emergencies (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-16T14:25:59.985Z|27713621806|27713621806|Peppers (1 cup, ~150g)|45|2|9|0|3|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "887",
+      "val": "3,682",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$1.3M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "14 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "813",
+      "val": "8",
       "color": "blue"
     }
   },
