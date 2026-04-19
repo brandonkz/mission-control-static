@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/19, 00:04:39",
+  "updated": "2026/04/19, 04:04:23",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,15 +92,15 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 4m",
+      "val": "1h 4m",
       "color": "blue"
     },
     "Restarts": {
-      "val": "22",
+      "val": "25",
       "color": "orange"
     },
     "Food Database": {
-      "val": "1918 foods",
+      "val": "1937 foods",
       "color": "blue"
     }
   },
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "0",
+      "val": "3,688",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$0.9M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "9 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "0",
+      "val": "8",
       "color": "blue"
     }
   },
