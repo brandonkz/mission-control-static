@@ -1,12 +1,12 @@
 {
-  "totalUsers": 267,
+  "totalUsers": 271,
   "setupComplete": 231,
   "proUsers": 1,
-  "activeToday": 0,
-  "activeWeek": 13,
-  "logsToday": 0,
-  "totalLogsAllTime": 1880,
-  "signupsToday": 0,
+  "activeToday": 3,
+  "activeWeek": 7,
+  "logsToday": 9,
+  "totalLogsAllTime": 1889,
+  "signupsToday": 4,
   "signupsThisWeek": 13,
   "signupsByDay": {
     "2026-03-21": 2,
@@ -41,9 +41,34 @@
     "2026-04-12": 1,
     "2026-04-14": 4,
     "2026-04-15": 1,
-    "2026-04-16": 4
+    "2026-04-16": 4,
+    "2026-04-20": 4
   },
   "recentSignups": [
+    {
+      "phone": "278***84",
+      "name": "anon",
+      "created": "2026-04-20T18:31:12.187Z",
+      "setup": false
+    },
+    {
+      "phone": "277***63",
+      "name": "anon",
+      "created": "2026-04-20T18:11:21.053Z",
+      "setup": false
+    },
+    {
+      "phone": "276***85",
+      "name": "anon",
+      "created": "2026-04-20T18:10:42.433Z",
+      "setup": false
+    },
+    {
+      "phone": "277***27",
+      "name": "anon",
+      "created": "2026-04-20T13:37:09.369Z",
+      "setup": false
+    },
     {
       "phone": "277***39",
       "name": "anon",
@@ -79,31 +104,7 @@
       "name": "NO I eat 2200-2400 cal",
       "created": "2026-04-14T17:22:35.282Z",
       "setup": true
-    },
-    {
-      "phone": "277***63",
-      "name": "Tolu",
-      "created": "2026-04-14T12:19:50.474Z",
-      "setup": true
-    },
-    {
-      "phone": "277***76",
-      "name": "Marinus",
-      "created": "2026-04-14T08:48:15.951Z",
-      "setup": true
-    },
-    {
-      "phone": "277***31",
-      "name": "Michael",
-      "created": "2026-04-14T08:25:26.443Z",
-      "setup": true
-    },
-    {
-      "phone": "278***44",
-      "name": "Dean",
-      "created": "2026-04-12T05:44:51.821Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-17T20:03:06.821Z"
+  "updatedAt": "2026-04-20T20:00:01.254Z"
 }

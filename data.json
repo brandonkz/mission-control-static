@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/20, 18:04:06",
+  "updated": "2026/04/20, 22:04:39",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "15h 4m",
+      "val": "19h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T12:38:09.763Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T18:49:45.290Z|27824497997|27824497997|Avocado (1 medium)|240|3|12|22|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T12:30:37.724Z|27837787970|27837787970|Quiche (1 slice)|300|12|20|18|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T18:17:01.909Z|27713621806|27713621806|Americano with milk (1 cup, ~240ml)|60|3|6|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T12:30:27.213Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T18:12:18.999Z|27713621806|27713621806|Bull Brand corned meat (100g)|250|20|0|18|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T12:30:12.812Z|27837787970|27837787970|Smoothie (~500ml)|500|10|80|15|5|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-20T18:12:15.959Z|27713621806|27713621806|Wedges (1 cup, ~150g)|200|3|35|8|4|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
