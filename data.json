@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/23, 08:04:33",
+  "updated": "2026/04/23, 10:04:48",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3689,7 +3689,7 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "0",
+      "val": "3,983",
       "color": "purple"
     },
     "Total Volume": {
@@ -3701,7 +3701,7 @@
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "0",
+      "val": "3555",
       "color": "blue"
     }
   },
