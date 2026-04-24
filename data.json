@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/24, 06:04:26",
+  "updated": "2026/04/24, 10:04:23",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "3h 4m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,6 +3649,10 @@
     },
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-24T07:38:05.315Z|27722544781|27722544781|Plant based berry smoothie (100ml)|50|1|10|1|1|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-23T17:30:14.655Z|27678134613|27678134613|Iced tea with 4 teaspoons of brown sugar|80|0|20|0|0|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3658,10 +3662,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-23T17:30:05.932Z|27678134613|27678134613|Pilchards in tomato sauce (1 can (215g))|190|17|4|12|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-23T17:30:03.318Z|27678134613|27678134613|Cucumber (1 medium, ~150g)|24|1|4|0|1|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
