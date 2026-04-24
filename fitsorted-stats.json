@@ -1,13 +1,13 @@
 {
-  "totalUsers": 271,
-  "setupComplete": 232,
+  "totalUsers": 272,
+  "setupComplete": 233,
   "proUsers": 1,
   "activeToday": 0,
-  "activeWeek": 5,
+  "activeWeek": 4,
   "logsToday": 0,
-  "totalLogsAllTime": 1889,
+  "totalLogsAllTime": 1894,
   "signupsToday": 0,
-  "signupsThisWeek": 9,
+  "signupsThisWeek": 5,
   "signupsByDay": {
     "2026-03-21": 2,
     "2026-03-04": 4,
@@ -42,9 +42,16 @@
     "2026-04-14": 4,
     "2026-04-15": 1,
     "2026-04-16": 4,
-    "2026-04-20": 4
+    "2026-04-20": 4,
+    "2026-04-23": 1
   },
   "recentSignups": [
+    {
+      "phone": "276***13",
+      "name": "Nobuntu",
+      "created": "2026-04-23T17:25:06.766Z",
+      "setup": true
+    },
     {
       "phone": "278***84",
       "name": "anon",
@@ -98,13 +105,7 @@
       "name": "anon",
       "created": "2026-04-15T08:25:50.291Z",
       "setup": false
-    },
-    {
-      "phone": "277***81",
-      "name": "NO I eat 2200-2400 cal",
-      "created": "2026-04-14T17:22:35.282Z",
-      "setup": true
     }
   ],
-  "updatedAt": "2026-04-22T18:05:01.501Z"
+  "updatedAt": "2026-04-24T00:00:01.363Z"
 }
