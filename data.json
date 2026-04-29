@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/29, 08:04:52",
+  "updated": "2026/04/29, 10:04:29",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "7h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,19 +3649,19 @@
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-28T14:03:01.124Z|27837787970|27837787970|health_ping_test (est.)|250|10|30|10|0|AI --account alphaxasset@gmail.com"
+      "error": "error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:58.285Z|27828726644|27828726644|flapjack (~50g)|200|3|30|8|2|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-24T11:53:53.688Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:19:35.575Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-24T07:38:05.315Z|27722544781|27722544781|Plant based berry smoothie (100ml)|50|1|10|1|1|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:09:08.806Z|27837787970|27837787970|2x cups oats so easy (1 cup, ~90g each)|600|20|108|12|16|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-23T17:30:14.655Z|27678134613|27678134613|Iced tea with 4 teaspoons of brown sugar|80|0|20|0|0|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:08:46.451Z|27837787970|27837787970|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
