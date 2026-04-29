@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/29, 10:04:29",
+  "updated": "2026/04/29, 12:04:16",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "7h 4m",
+      "val": "9h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,7 +3649,7 @@
     },
     {
       "count": 1,
-      "error": "error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-12T05:49:58.285Z|27828726644|27828726644|flapjack (~50g)|200|3|30|8|2|AI --account alphaxasset@gmail.com"
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T09:35:47.433Z|27693972893|27693972893|Chia pudding (~100g)|120|4|10|7|10|AI --account alphaxasset@gmail.com"
     },
     {
       "count": 1,
