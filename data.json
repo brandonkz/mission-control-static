@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/29, 20:04:33",
+  "updated": "2026/04/29, 22:04:30",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "17h 4m",
+      "val": "19h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3649,6 +3649,10 @@
     },
     {
       "count": 1,
+      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T18:06:38.781Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
+    },
+    {
+      "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T09:35:47.433Z|27693972893|27693972893|Chia pudding (~100g)|120|4|10|7|10|AI --account alphaxasset@gmail.com"
     },
     {
@@ -3658,10 +3662,6 @@
     {
       "count": 1,
       "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:09:08.806Z|27837787970|27837787970|2x cups oats so easy (1 cup, ~90g each)|600|20|108|12|16|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:08:46.451Z|27837787970|27837787970|Oats (1 cup cooked) (1 cup)|150|6|27|3|4|AI --account alphaxasset@gmail.com"
     }
   ],
   "analytics": {},
