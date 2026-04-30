@@ -1,5 +1,5 @@
 {
-  "updated": "2026/04/30, 00:04:44",
+  "updated": "2026/04/30, 02:04:21",
   "projects": [
     {
       "name": "FitSorted",
@@ -92,7 +92,7 @@
       "color": "green"
     },
     "Uptime": {
-      "val": "21h 4m",
+      "val": "23h 4m",
       "color": "blue"
     },
     "Restarts": {
@@ -3689,19 +3689,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "4,133",
+      "val": "3,039",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$0.9M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "6 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "3647",
+      "val": "8",
       "color": "blue"
     }
   },
