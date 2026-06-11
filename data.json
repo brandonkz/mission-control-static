@@ -1,11 +1,11 @@
 {
-  "updated": "2026/05/01, 08:04:13",
+  "updated": "2026/06/11, 16:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "0 active",
+      "traffic": "4 active",
       "trafficColor": "green"
     },
     {
@@ -60,51 +60,200 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "253",
+      "val": "264",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "0",
+      "val": "4",
       "color": "orange"
     },
     "Premium Users": {
-      "val": "2",
+      "val": "3",
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,776",
+      "val": "1,913",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "413,876",
+      "val": "449,278",
       "color": "blue"
     },
     "Bot Status": {
-      "val": "online",
-      "color": "green"
+      "val": "unknown",
+      "color": "red"
     },
     "Uptime": {
-      "val": "5h 4m",
+      "val": "?",
       "color": "blue"
     },
     "Restarts": {
-      "val": "50",
+      "val": "?",
       "color": "orange"
     },
     "Food Database": {
-      "val": "2178 foods",
+      "val": "2379 foods",
       "color": "blue"
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Brett",
+      "phone": "2781****120",
+      "logs": 2,
+      "joined": "2026/06/04",
+      "lastActive": "2026-06-04",
+      "goal": 1926,
+      "age": 57,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-06-04T03:58:35.752Z"
+    },
+    {
+      "name": "Plcilliers@gmail.com",
+      "phone": "2782****221",
+      "logs": 1,
+      "joined": "2026/06/01",
+      "lastActive": "2026-06-01",
+      "goal": 3586,
+      "age": 44,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-06-01T11:57:03.869Z"
+    },
+    {
+      "name": "Fathima",
+      "phone": "2778****709",
+      "logs": 7,
+      "joined": "2026/06/01",
+      "lastActive": "2026-06-01",
+      "goal": 1017,
+      "age": 31,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-06-01T11:48:10.957Z"
+    },
+    {
+      "name": "Ancilla",
+      "phone": "2782****975",
+      "logs": 10,
+      "joined": "2026/06/01",
+      "lastActive": "2026-06-01",
+      "goal": 1306,
+      "age": 51,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-06-01T09:56:28.470Z"
+    },
+    {
+      "name": "Joelien",
+      "phone": "2783****515",
+      "logs": 4,
+      "joined": "2026/05/30",
+      "lastActive": "2026-06-02",
+      "goal": 1413,
+      "age": 47,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-05-30T18:21:56.659Z"
+    },
+    {
+      "name": "Liezel",
+      "phone": "2778****753",
+      "logs": 0,
+      "joined": "2026/05/25",
+      "lastActive": "never",
+      "goal": 2209,
+      "age": 19,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-05-25T18:02:42.878Z"
+    },
+    {
+      "name": "Em",
+      "phone": "2771****954",
+      "logs": 0,
+      "joined": "2026/05/25",
+      "lastActive": "never",
+      "goal": 2407,
+      "age": 18,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-05-25T09:07:22.967Z"
+    },
+    {
+      "name": "Fresh",
+      "phone": "2766****309",
+      "logs": 0,
+      "joined": "2026/05/20",
+      "lastActive": "never",
+      "goal": 2895,
+      "age": 16,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-05-20T14:02:22.533Z"
+    },
+    {
+      "name": "Charl",
+      "phone": "2762****187",
+      "logs": 0,
+      "joined": "2026/05/16",
+      "lastActive": "never",
+      "goal": 1749,
+      "age": 48,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-05-16T13:40:02.975Z"
+    },
+    {
+      "name": "Tshepo",
+      "phone": "2778****754",
+      "logs": 2,
+      "joined": "2026/05/16",
+      "lastActive": "2026-05-22",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "active7d": false,
+      "joinedRaw": "2026-05-16T09:18:53.797Z"
+    },
+    {
+      "name": "Unknown",
+      "phone": "2771****563",
+      "logs": 0,
+      "joined": "2026/05/15",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-05-15T17:58:33.526Z"
+    },
     {
       "name": "Cameron",
       "phone": "2782****299",
@@ -219,15 +368,15 @@
     {
       "name": "Jaime",
       "phone": "2773****721",
-      "logs": 13,
+      "logs": 14,
       "joined": "2026/03/31",
-      "lastActive": "2026-03-31",
+      "lastActive": "2026-06-09",
       "goal": 1062,
       "age": 25,
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-31T07:02:43.952Z"
     },
     {
@@ -247,12 +396,12 @@
     {
       "name": "Jacey",
       "phone": "2772****781",
-      "logs": 51,
+      "logs": 52,
       "joined": "2026/03/30",
-      "lastActive": "2026-04-04",
-      "goal": 1896,
-      "age": 30,
-      "gender": "female",
+      "lastActive": "2026-05-15",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false,
       "active7d": false,
@@ -728,15 +877,15 @@
     {
       "name": "Mariska",
       "phone": "2782****028",
-      "logs": 8,
+      "logs": 9,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-24",
+      "lastActive": "2026-06-10",
       "goal": 1183,
       "age": 31,
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-03-23T13:54:39.984Z"
     },
     {
@@ -1622,11 +1771,11 @@
     {
       "name": "Nick",
       "phone": "2760****695",
-      "logs": 20,
+      "logs": 22,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-25",
-      "goal": 1284,
-      "age": 34,
+      "lastActive": "2026-06-02",
+      "goal": 1978,
+      "age": 35,
       "gender": "male",
       "email": "",
       "premium": false,
@@ -1789,15 +1938,15 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 41,
+      "logs": 133,
       "joined": "2026/03/23",
-      "lastActive": "2026-04-01",
-      "goal": 2018,
+      "lastActive": "2026-06-11",
+      "goal": 2040,
       "age": 35,
       "gender": "male",
       "email": "fredericks.a@hotmail.com",
-      "premium": false,
-      "active7d": false,
+      "premium": true,
+      "active7d": true,
       "joinedRaw": "2026-03-23T05:52:57.644Z"
     },
     {
@@ -2334,9 +2483,9 @@
     {
       "name": "Taahir",
       "phone": "2761****618",
-      "logs": 30,
+      "logs": 34,
       "joined": "2026/03/23",
-      "lastActive": "2026-03-27",
+      "lastActive": "2026-06-02",
       "goal": 1480,
       "age": 31,
       "gender": "male",
@@ -3540,15 +3689,15 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 31,
+      "logs": 41,
       "joined": "2026/02/23",
-      "lastActive": "2026-04-08",
+      "lastActive": "2026-06-10",
       "goal": 1999,
       "age": 38,
       "gender": "male",
       "email": "",
       "premium": true,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-02-23T10:19:56.887561+00:00"
     },
     {
@@ -3583,7 +3732,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      35
+      41
     ],
     [
       "banana (1 medium)",
@@ -3594,15 +3743,27 @@
       16
     ],
     [
+      "diet protein shake (1 scoop)",
+      12
+    ],
+    [
+      "oats (1 cup cooked) (1 cup)",
+      10
+    ],
+    [
+      "tea with milk (1 cup)",
+      9
+    ],
+    [
       "3x eggs",
       8
     ],
     [
-      "tea with milk (1 cup)",
+      "toast (white bread, 2 slices) (2 slices)",
       8
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
+      "peanut butter (2 tbsp) (2 tbsp (32g))",
       7
     ],
     [
@@ -3610,7 +3771,7 @@
       7
     ],
     [
-      "toast (white bread, 2 slices) (2 slices)",
+      "biltong (100g)",
       7
     ],
     [
@@ -3622,48 +3783,15 @@
       6
     ],
     [
-      "biltong (100g)",
-      6
-    ],
-    [
       "apple (medium)",
       5
     ],
     [
       "scrambled eggs (2 eggs)",
       5
-    ],
-    [
-      "coke zero 330ml",
-      5
-    ],
-    [
-      "hot cross bun (~100g)",
-      5
     ]
   ],
-  "fitsortedErrors": [
-    {
-      "count": 2,
-      "error": "Webhook error: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined TypeError [ERR_INVALID_ARG_TYPE]: The \"data\" argument must be of type string or an instance of Buffer, TypedArray, or DataView. Received undefined"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T18:06:38.781Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T09:35:47.433Z|27693972893|27693972893|Chia pudding (~100g)|120|4|10|7|10|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:19:35.575Z|27837787970|27837787970|Coffee with milk (1 cup)|50|3|5|2|0|AI --account alphaxasset@gmail.com"
-    },
-    {
-      "count": 1,
-      "error": "[sheets append error] Command failed: gog sheets append 1RIOOA4F425JPJXq5MiQ_qoqfh1NiEQAifT0zGYE0yfk Sheet1!A:J 2026-04-29T07:09:08.806Z|27837787970|27837787970|2x cups oats so easy (1 cup, ~90g each)|600|20|108|12|16|AI --account alphaxasset@gmail.com"
-    }
-  ],
+  "fitsortedErrors": [],
   "analytics": {},
   "revenue": {
     "FitSorted MRR": {
@@ -3689,19 +3817,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,429",
+      "val": "3,748",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$1.8M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "28 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "3068",
+      "val": "6",
       "color": "blue"
     }
   },
