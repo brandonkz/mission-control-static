@@ -1,11 +1,11 @@
 {
-  "updated": "2026/06/13, 08:04:00",
+  "updated": "2026/06/13, 10:04:01",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "4 active",
+      "traffic": "5 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "264",
+      "val": "265",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "4",
+      "val": "5",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,920",
+      "val": "1,924",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "452,440",
+      "val": "453,210",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Ziphiwo",
+      "phone": "2764****889",
+      "logs": 3,
+      "joined": "2026/06/13",
+      "lastActive": "2026-06-13",
+      "goal": 1132,
+      "age": 41,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-06-13T07:06:46.820Z"
+    },
     {
       "name": "Brett",
       "phone": "2781****120",
@@ -1938,9 +1952,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 140,
+      "logs": 141,
       "joined": "2026/03/23",
-      "lastActive": "2026-06-12",
+      "lastActive": "2026-06-13",
       "goal": 2040,
       "age": 35,
       "gender": "male",
@@ -3732,7 +3746,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      41
+      42
     ],
     [
       "banana (1 medium)",
@@ -3744,7 +3758,7 @@
     ],
     [
       "diet protein shake (1 scoop)",
-      13
+      14
     ],
     [
       "oats (1 cup cooked) (1 cup)",
