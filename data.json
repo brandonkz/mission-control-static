@@ -1,5 +1,5 @@
 {
-  "updated": "2026/06/15, 04:04:00",
+  "updated": "2026/06/15, 06:04:04",
   "projects": [
     {
       "name": "FitSorted",
@@ -3831,19 +3831,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,231",
+      "val": "3,228",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$3.2M",
+      "val": "$0.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "16 (>$10K)",
+      "val": "0 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "7",
+      "val": "2750",
       "color": "blue"
     }
   },
