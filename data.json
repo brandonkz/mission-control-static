@@ -1,5 +1,5 @@
 {
-  "updated": "2026/06/16, 04:04:05",
+  "updated": "2026/06/16, 06:04:00",
   "projects": [
     {
       "name": "FitSorted",
@@ -3831,7 +3831,7 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,228",
+      "val": "3,422",
       "color": "purple"
     },
     "Total Volume": {
@@ -3843,7 +3843,7 @@
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "2750",
+      "val": "2936",
       "color": "blue"
     }
   },
