@@ -1,5 +1,5 @@
 {
-  "updated": "2026/06/18, 00:10:36",
+  "updated": "2026/06/18, 02:04:01",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
@@ -80,8 +80,8 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "11",
-      "color": "green"
+      "val": "0",
+      "color": "orange"
     },
     "Total Calories Tracked": {
       "val": "463,690",
@@ -3871,19 +3871,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,522",
+      "val": "3,525",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$0.0M",
+      "val": "$2.2M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "0 (>$10K)",
+      "val": "36 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "3099",
+      "val": "8",
       "color": "blue"
     }
   },
