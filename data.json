@@ -1,11 +1,11 @@
 {
-  "updated": "2026/06/18, 08:04:01",
+  "updated": "2026/06/18, 10:04:03",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "4 active",
+      "traffic": "3 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "268",
+      "val": "267",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "4",
+      "val": "3",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "1,973",
+      "val": "1,963",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "463,690",
+      "val": "461,610",
       "color": "blue"
     },
     "Bot Status": {
@@ -130,20 +130,6 @@
       "email": "",
       "premium": false,
       "joinedRaw": "2026-06-16T14:21:34.594Z"
-    },
-    {
-      "name": "Tracy",
-      "phone": "2782****548",
-      "logs": 11,
-      "joined": "2026/06/16",
-      "lastActive": "2026-06-17",
-      "goal": 1159,
-      "age": 50,
-      "gender": "female",
-      "email": "",
-      "premium": false,
-      "active7d": true,
-      "joinedRaw": "2026-06-16T10:34:21.723Z"
     },
     {
       "name": "Ziphiwo",
@@ -1992,9 +1978,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 166,
+      "logs": 167,
       "joined": "2026/03/23",
-      "lastActive": "2026-06-17",
+      "lastActive": "2026-06-18",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -3790,7 +3776,7 @@
     ],
     [
       "diet protein shake (1 scoop)",
-      18
+      19
     ],
     [
       "banana (1 medium)",
