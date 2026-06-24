@@ -1,5 +1,5 @@
 {
-  "updated": "2026/06/24, 10:04:09",
+  "updated": "2026/06/24, 12:04:03",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,012",
+      "val": "2,014",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "476,026",
+      "val": "476,586",
       "color": "blue"
     },
     "Bot Status": {
@@ -2006,7 +2006,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 209,
+      "logs": 211,
       "joined": "2026/03/23",
       "lastActive": "2026-06-24",
       "goal": 1999,
@@ -3819,11 +3819,11 @@
       12
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
-      10
+      "biltong (100g)",
+      11
     ],
     [
-      "biltong (100g)",
+      "oats (1 cup cooked) (1 cup)",
       10
     ],
     [
