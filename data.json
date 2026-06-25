@@ -1,5 +1,5 @@
 {
-  "updated": "2026/06/25, 02:04:04",
+  "updated": "2026/06/25, 12:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,015",
+      "val": "2,017",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "476,736",
+      "val": "477,306",
       "color": "blue"
     },
     "Bot Status": {
@@ -2006,9 +2006,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 212,
+      "logs": 214,
       "joined": "2026/03/23",
-      "lastActive": "2026-06-24",
+      "lastActive": "2026-06-25",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -3815,12 +3815,12 @@
       16
     ],
     [
-      "tea with milk",
+      "biltong (100g)",
       12
     ],
     [
-      "biltong (100g)",
-      11
+      "tea with milk",
+      12
     ],
     [
       "oats (1 cup cooked) (1 cup)",
