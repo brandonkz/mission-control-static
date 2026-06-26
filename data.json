@@ -1,11 +1,11 @@
 {
-  "updated": "2026/06/26, 08:04:06",
+  "updated": "2026/06/26, 10:04:12",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "1 active",
+      "traffic": "2 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "269",
+      "val": "270",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,021",
+      "val": "2,023",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "479,026",
+      "val": "479,356",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Nicole",
+      "phone": "2766****547",
+      "logs": 1,
+      "joined": "2026/06/26",
+      "lastActive": "2026-06-26",
+      "goal": 1303,
+      "age": 25,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-06-26T07:11:37.468Z"
+    },
     {
       "name": "Unknown",
       "phone": "2783****637",
@@ -2006,9 +2020,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 218,
+      "logs": 219,
       "joined": "2026/03/23",
-      "lastActive": "2026-06-25",
+      "lastActive": "2026-06-26",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -3804,7 +3818,7 @@
     ],
     [
       "diet protein shake (1 scoop)",
-      22
+      23
     ],
     [
       "banana (1 medium)",
@@ -3860,7 +3874,68 @@
     ]
   ],
   "fitsortedErrors": [],
-  "analytics": {},
+  "analytics": {
+    "FitSorted": {
+      "daily": {
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
+      },
+      "weekly": {
+        "sessions": "11",
+        "users": "11",
+        "pageviews": "11"
+      }
+    },
+    "PaidProperly": {
+      "daily": {
+        "sessions": "10",
+        "users": "10",
+        "pageviews": "23"
+      },
+      "weekly": {
+        "sessions": "77",
+        "users": "66",
+        "pageviews": "294"
+      }
+    },
+    "BetSorted": {
+      "daily": {
+        "sessions": "22",
+        "users": "22",
+        "pageviews": "25"
+      },
+      "weekly": {
+        "sessions": "72",
+        "users": "69",
+        "pageviews": "174"
+      }
+    },
+    "RetirementSorted": {
+      "daily": {
+        "sessions": "5",
+        "users": "4",
+        "pageviews": "5"
+      },
+      "weekly": {
+        "sessions": "42",
+        "users": "33",
+        "pageviews": "43"
+      }
+    },
+    "CryptoCasinoSorted": {
+      "daily": {
+        "sessions": "9",
+        "users": "7",
+        "pageviews": "8"
+      },
+      "weekly": {
+        "sessions": "23",
+        "users": "18",
+        "pageviews": "118"
+      }
+    }
+  },
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",
