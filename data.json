@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/01, 00:04:10",
+  "updated": "2026/07/01, 02:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "9",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -3903,26 +3903,26 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "20",
-        "users": "19",
-        "pageviews": "25"
+        "sessions": "21",
+        "users": "20",
+        "pageviews": "26"
       },
       "weekly": {
-        "sessions": "108",
+        "sessions": "109",
         "users": "81",
-        "pageviews": "221"
+        "pageviews": "222"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "8",
-        "users": "8",
-        "pageviews": "12"
+        "sessions": "9",
+        "users": "9",
+        "pageviews": "13"
       },
       "weekly": {
-        "sessions": "96",
-        "users": "92",
-        "pageviews": "242"
+        "sessions": "97",
+        "users": "93",
+        "pageviews": "243"
       }
     },
     "RetirementSorted": {
@@ -3939,14 +3939,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "25",
-        "users": "19",
-        "pageviews": "136"
+        "sessions": "3",
+        "users": "2",
+        "pageviews": "2"
       },
       "weekly": {
-        "sessions": "25",
-        "users": "19",
-        "pageviews": "136"
+        "sessions": "21",
+        "users": "16",
+        "pageviews": "127"
       }
     }
   },
@@ -3974,15 +3974,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,855",
+      "val": "3,676",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.4M",
+      "val": "$3.9M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "18 (>$10K)",
+      "val": "44 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
