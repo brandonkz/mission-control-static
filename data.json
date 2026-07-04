@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/04, 18:04:11",
+  "updated": "2026/07/04, 20:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "1 active",
+      "traffic": "2 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,074",
+      "val": "2,075",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "3",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "494,224",
+      "val": "494,274",
       "color": "blue"
     },
     "Bot Status": {
@@ -3785,15 +3785,15 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 43,
+      "logs": 44,
       "joined": "2026/02/23",
-      "lastActive": "2026-06-16",
+      "lastActive": "2026-07-04",
       "goal": 1999,
       "age": 38,
       "gender": "male",
       "email": "",
       "premium": true,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-02-23T10:19:56.887561+00:00"
     },
     {
@@ -3828,7 +3828,7 @@
   "fitsortedTopFoods": [
     [
       "coffee with milk (1 cup)",
-      43
+      44
     ],
     [
       "diet protein shake (1 scoop)",
