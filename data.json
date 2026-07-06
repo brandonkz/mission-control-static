@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/05, 06:04:09",
+  "updated": "2026/07/06, 10:04:13",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "2 active",
+      "traffic": "3 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "271",
+      "val": "273",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,075",
+      "val": "2,088",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "494,274",
+      "val": "496,954",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,33 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Unknown",
+      "phone": "2782****874",
+      "logs": 0,
+      "joined": "2026/07/05",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-07-05T10:24:35.432Z"
+    },
+    {
+      "name": "Charles",
+      "phone": "2764****989",
+      "logs": 8,
+      "joined": "2026/07/05",
+      "lastActive": "2026-07-05",
+      "goal": 1751,
+      "age": 53,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-05T04:10:12.256Z"
+    },
     {
       "name": "Liané",
       "phone": "2765****641",
@@ -2034,9 +2061,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 269,
+      "logs": 273,
       "joined": "2026/03/23",
-      "lastActive": "2026-07-04",
+      "lastActive": "2026-07-06",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -3785,9 +3812,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 44,
+      "logs": 45,
       "joined": "2026/02/23",
-      "lastActive": "2026-07-04",
+      "lastActive": "2026-07-06",
       "goal": 1999,
       "age": 38,
       "gender": "male",
@@ -3832,7 +3859,7 @@
     ],
     [
       "diet protein shake (1 scoop)",
-      29
+      31
     ],
     [
       "banana (1 medium)",
@@ -3852,7 +3879,7 @@
     ],
     [
       "oats (1 cup cooked) (1 cup)",
-      10
+      11
     ],
     [
       "toast (white bread, 2 slices) (2 slices)",
@@ -3891,62 +3918,62 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "2"
+        "sessions": "3",
+        "users": "3",
+        "pageviews": "3"
       },
       "weekly": {
-        "sessions": "11",
-        "users": "10",
-        "pageviews": "111"
+        "sessions": "14",
+        "users": "13",
+        "pageviews": "114"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "12",
+        "sessions": "16",
         "users": "10",
-        "pageviews": "54"
+        "pageviews": "19"
       },
       "weekly": {
-        "sessions": "127",
-        "users": "96",
-        "pageviews": "294"
+        "sessions": "138",
+        "users": "98",
+        "pageviews": "290"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "22",
-        "users": "22",
-        "pageviews": "22"
+        "sessions": "6",
+        "users": "6",
+        "pageviews": "11"
       },
       "weekly": {
-        "sessions": "185",
-        "users": "182",
-        "pageviews": "333"
+        "sessions": "176",
+        "users": "173",
+        "pageviews": "329"
       }
     },
     "RetirementSorted": {
       "daily": {
         "sessions": "1",
         "users": "1",
-        "pageviews": "9"
+        "pageviews": "1"
       },
       "weekly": {
-        "sessions": "31",
-        "users": "27",
-        "pageviews": "109"
+        "sessions": "27",
+        "users": "24",
+        "pageviews": "45"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "13",
-        "users": "8",
-        "pageviews": "21"
+        "sessions": "1",
+        "users": "1",
+        "pageviews": "1"
       },
       "weekly": {
-        "sessions": "13",
-        "users": "8",
-        "pageviews": "21"
+        "sessions": "12",
+        "users": "7",
+        "pageviews": "20"
       }
     }
   },
