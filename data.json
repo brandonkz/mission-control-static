@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/07, 08:04:10",
+  "updated": "2026/07/07, 10:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -3944,38 +3944,38 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "27",
+        "sessions": "28",
         "users": "25",
-        "pageviews": "30"
+        "pageviews": "39"
       },
       "weekly": {
-        "sessions": "137",
+        "sessions": "138",
         "users": "106",
-        "pageviews": "247"
+        "pageviews": "256"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "11",
-        "users": "10",
-        "pageviews": "11"
+        "sessions": "12",
+        "users": "11",
+        "pageviews": "14"
       },
       "weekly": {
-        "sessions": "180",
-        "users": "175",
-        "pageviews": "330"
+        "sessions": "181",
+        "users": "176",
+        "pageviews": "333"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "2"
+        "sessions": "3",
+        "users": "3",
+        "pageviews": "3"
       },
       "weekly": {
-        "sessions": "25",
-        "users": "24",
-        "pageviews": "42"
+        "sessions": "26",
+        "users": "25",
+        "pageviews": "43"
       }
     },
     "CryptoCasinoSorted": {
