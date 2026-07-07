@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/07, 14:04:10",
+  "updated": "2026/07/07, 16:04:13",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "4 active",
+      "traffic": "5 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "274",
+      "val": "275",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "4",
+      "val": "5",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,096",
+      "val": "2,098",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "500,494",
+      "val": "501,564",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Tairique",
+      "phone": "2763****046",
+      "logs": 2,
+      "joined": "2026/07/07",
+      "lastActive": "2026-07-07",
+      "goal": 1866,
+      "age": 24,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-07T13:32:28.627Z"
+    },
     {
       "name": "Natalie",
       "phone": "2779****526",
