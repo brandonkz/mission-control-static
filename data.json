@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/11, 00:04:09",
+  "updated": "2026/07/11, 02:04:14",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "6",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -3972,26 +3972,26 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "7",
-        "users": "7",
-        "pageviews": "11"
+        "sessions": "8",
+        "users": "8",
+        "pageviews": "13"
       },
       "weekly": {
-        "sessions": "137",
-        "users": "101",
-        "pageviews": "262"
+        "sessions": "138",
+        "users": "102",
+        "pageviews": "264"
       }
     },
     "BetSorted": {
       "daily": {
         "sessions": "80",
         "users": "80",
-        "pageviews": "81"
+        "pageviews": "83"
       },
       "weekly": {
         "sessions": "149",
         "users": "146",
-        "pageviews": "165"
+        "pageviews": "167"
       }
     },
     "RetirementSorted": {
@@ -4008,14 +4008,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "8",
-        "users": "8",
-        "pageviews": "11"
+        "sessions": "11",
+        "users": "9",
+        "pageviews": "17"
       },
       "weekly": {
-        "sessions": "32",
-        "users": "20",
-        "pageviews": "43"
+        "sessions": "42",
+        "users": "26",
+        "pageviews": "54"
       }
     }
   },
@@ -4043,19 +4043,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,096",
+      "val": "3,401",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.5M",
+      "val": "$2.5M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "15 (>$10K)",
+      "val": "24 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "6",
+      "val": "9",
       "color": "blue"
     }
   },
