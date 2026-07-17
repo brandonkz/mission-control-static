@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/17, 00:04:09",
+  "updated": "2026/07/17, 02:04:08",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "6",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -4011,14 +4011,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "20",
-        "users": "19",
-        "pageviews": "25"
+        "sessions": "21",
+        "users": "20",
+        "pageviews": "27"
       },
       "weekly": {
-        "sessions": "194",
-        "users": "189",
-        "pageviews": "222"
+        "sessions": "195",
+        "users": "190",
+        "pageviews": "224"
       }
     },
     "RetirementSorted": {
@@ -4035,14 +4035,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "21",
+        "sessions": "15",
         "users": "8",
-        "pageviews": "55"
+        "pageviews": "28"
       },
       "weekly": {
-        "sessions": "87",
-        "users": "52",
-        "pageviews": "196"
+        "sessions": "94",
+        "users": "47",
+        "pageviews": "213"
       }
     }
   },
