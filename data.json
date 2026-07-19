@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/19, 18:04:11",
+  "updated": "2026/07/19, 20:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -3987,62 +3987,62 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "2"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       },
       "weekly": {
-        "sessions": "11",
-        "users": "10",
-        "pageviews": "11"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "8",
-        "users": "7",
-        "pageviews": "14"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       },
       "weekly": {
-        "sessions": "153",
-        "users": "130",
-        "pageviews": "205"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "15",
-        "users": "15",
-        "pageviews": "17"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       },
       "weekly": {
-        "sessions": "117",
-        "users": "110",
-        "pageviews": "144"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "6"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       },
       "weekly": {
-        "sessions": "49",
-        "users": "47",
-        "pageviews": "54"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "3"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       },
       "weekly": {
-        "sessions": "90",
-        "users": "41",
-        "pageviews": "250"
+        "sessions": "?",
+        "users": "?",
+        "pageviews": "?"
       }
     }
   },
