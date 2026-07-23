@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/23, 22:04:13",
+  "updated": "2026/07/24, 00:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,226",
+      "val": "2,229",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
+      "val": "10",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "540,527",
+      "val": "541,507",
       "color": "blue"
     },
     "Bot Status": {
@@ -175,9 +175,9 @@
     {
       "name": "Tairique",
       "phone": "2763****046",
-      "logs": 22,
+      "logs": 25,
       "joined": "2026/07/07",
-      "lastActive": "2026-07-21",
+      "lastActive": "2026-07-23",
       "goal": 1866,
       "age": 24,
       "gender": "male",
@@ -4013,49 +4013,49 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "2",
-        "pageviews": "3"
+        "sessions": "1",
+        "users": "1",
+        "pageviews": "1"
       },
       "weekly": {
         "sessions": "21",
-        "users": "18",
+        "users": "17",
         "pageviews": "21"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "24",
-        "users": "20",
-        "pageviews": "46"
+        "sessions": "18",
+        "users": "17",
+        "pageviews": "24"
       },
       "weekly": {
-        "sessions": "150",
-        "users": "121",
-        "pageviews": "226"
+        "sessions": "137",
+        "users": "113",
+        "pageviews": "210"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "20",
-        "users": "20",
-        "pageviews": "23"
+        "sessions": "9",
+        "users": "9",
+        "pageviews": "11"
       },
       "weekly": {
-        "sessions": "102",
-        "users": "98",
-        "pageviews": "121"
+        "sessions": "90",
+        "users": "87",
+        "pageviews": "104"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "7",
-        "users": "6",
-        "pageviews": "7"
+        "sessions": "8",
+        "users": "7",
+        "pageviews": "9"
       },
       "weekly": {
-        "sessions": "41",
-        "users": "36",
+        "sessions": "40",
+        "users": "33",
         "pageviews": "51"
       }
     },
