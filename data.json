@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/23, 00:04:09",
+  "updated": "2026/07/23, 02:04:12",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "4 active",
+      "traffic": "3 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "4",
+      "val": "3",
       "color": "orange"
     },
     "Premium Users": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "9",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -142,7 +142,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-07-16T16:54:22.777Z"
     },
     {
@@ -4025,14 +4025,14 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "21",
-        "users": "17",
-        "pageviews": "35"
+        "sessions": "24",
+        "users": "20",
+        "pageviews": "42"
       },
       "weekly": {
-        "sessions": "147",
-        "users": "118",
-        "pageviews": "215"
+        "sessions": "150",
+        "users": "121",
+        "pageviews": "222"
       }
     },
     "BetSorted": {
@@ -4061,14 +4061,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "5",
+        "sessions": "3",
         "users": "3",
-        "pageviews": "5"
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "57",
-        "users": "20",
-        "pageviews": "151"
+        "sessions": "39",
+        "users": "18",
+        "pageviews": "100"
       }
     }
   },
@@ -4096,7 +4096,7 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,047",
+      "val": "2,823",
       "color": "purple"
     },
     "Total Volume": {
