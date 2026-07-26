@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/26, 12:04:09",
+  "updated": "2026/07/26, 14:04:10",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,251",
+      "val": "2,252",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "549,274",
+      "val": "549,434",
       "color": "blue"
     },
     "Bot Status": {
@@ -2196,7 +2196,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 386,
+      "logs": 387,
       "joined": "2026/03/23",
       "lastActive": "2026-07-26",
       "goal": 1999,
@@ -4029,6 +4029,10 @@
       8
     ],
     [
+      "handful of almonds (~28g)",
+      8
+    ],
+    [
       "peanut butter (2 tbsp) (2 tbsp (32g))",
       7
     ],
@@ -4042,10 +4046,6 @@
     ],
     [
       "coke zero 330ml",
-      7
-    ],
-    [
-      "black coffee (1 cup, ~240ml)",
       7
     ]
   ],
