@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/27, 12:04:13",
+  "updated": "2026/07/27, 14:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "2 active",
+      "traffic": "3 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "282",
+      "val": "283",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,248",
+      "val": "2,249",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "3",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "548,698",
+      "val": "548,866",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Ramina",
+      "phone": "2767****195",
+      "logs": 1,
+      "joined": "2026/07/27",
+      "lastActive": "2026-07-27",
+      "goal": 1706,
+      "age": 21,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-27T10:36:47.703Z"
+    },
     {
       "name": "Unknown",
       "phone": "2012****191",
