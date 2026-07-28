@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/28, 04:04:13",
+  "updated": "2026/07/28, 06:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "5 active",
+      "traffic": "6 active",
       "trafficColor": "green"
     },
     {
@@ -60,31 +60,31 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "285",
+      "val": "286",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "5",
-      "color": "orange"
+      "val": "6",
+      "color": "green"
     },
     "Premium Users": {
       "val": "3",
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,264",
+      "val": "2,265",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "553,639",
+      "val": "553,679",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Lekhanaa",
+      "phone": "9174****709",
+      "logs": 1,
+      "joined": "2026/07/28",
+      "lastActive": "2026-07-28",
+      "goal": 2099,
+      "age": 19,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-28T03:54:27.345Z"
+    },
     {
       "name": "Liyema",
       "phone": "2760****778",
@@ -4038,7 +4052,7 @@
     ],
     [
       "tea with milk",
-      14
+      15
     ],
     [
       "oats (1 cup cooked) (1 cup)",
