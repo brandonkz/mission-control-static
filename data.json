@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/28, 20:04:10",
+  "updated": "2026/07/28, 22:04:15",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,281",
+      "val": "2,284",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "17",
+      "val": "20",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "558,919",
+      "val": "560,709",
       "color": "blue"
     },
     "Bot Status": {
@@ -136,7 +136,7 @@
     {
       "name": "Liyema",
       "phone": "2760****778",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/07/27",
       "lastActive": "2026-07-28",
       "goal": 1880,
@@ -2252,7 +2252,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 402,
+      "logs": 404,
       "joined": "2026/03/23",
       "lastActive": "2026-07-28",
       "goal": 1999,
@@ -4093,15 +4093,15 @@
       8
     ],
     [
+      "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
+      8
+    ],
+    [
       "peanut butter (2 tbsp) (2 tbsp (32g))",
       7
     ],
     [
       "rice (1 cup cooked) (1 cup)",
-      7
-    ],
-    [
-      "coke zero 330ml",
       7
     ]
   ],
