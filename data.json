@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/28, 08:04:09",
+  "updated": "2026/07/28, 10:04:14",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,265",
+      "val": "2,266",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "553,679",
+      "val": "554,079",
       "color": "blue"
     },
     "Bot Status": {
@@ -2238,9 +2238,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 399,
+      "logs": 400,
       "joined": "2026/03/23",
-      "lastActive": "2026-07-27",
+      "lastActive": "2026-07-28",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4107,26 +4107,26 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "16",
-        "users": "15",
-        "pageviews": "17"
+        "sessions": "18",
+        "users": "17",
+        "pageviews": "21"
       },
       "weekly": {
-        "sessions": "129",
-        "users": "107",
-        "pageviews": "206"
+        "sessions": "131",
+        "users": "109",
+        "pageviews": "210"
       }
     },
     "BetSorted": {
       "daily": {
         "sessions": "14",
         "users": "14",
-        "pageviews": "24"
+        "pageviews": "26"
       },
       "weekly": {
         "sessions": "208",
         "users": "205",
-        "pageviews": "251"
+        "pageviews": "253"
       }
     },
     "RetirementSorted": {
