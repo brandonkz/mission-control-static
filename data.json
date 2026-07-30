@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/30, 18:04:09",
+  "updated": "2026/07/30, 20:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,298",
+      "val": "2,301",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "7",
+      "val": "10",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "565,169",
+      "val": "565,809",
       "color": "blue"
     },
     "Bot Status": {
@@ -108,7 +108,7 @@
     {
       "name": "Brad",
       "phone": "2782****936",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/07/30",
       "lastActive": "2026-07-30",
       "goal": 1946,
@@ -2280,7 +2280,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 414,
+      "logs": 416,
       "joined": "2026/03/23",
       "lastActive": "2026-07-30",
       "goal": 1999,
@@ -4089,11 +4089,11 @@
       16
     ],
     [
-      "biltong (100g)",
-      15
+      "tea with milk",
+      16
     ],
     [
-      "tea with milk",
+      "biltong (100g)",
       15
     ],
     [
