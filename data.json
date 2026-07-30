@@ -1,11 +1,11 @@
 {
-  "updated": "2026/07/30, 10:04:12",
+  "updated": "2026/07/30, 12:04:08",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "8 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "287",
+      "val": "289",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
+      "val": "8",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,292",
+      "val": "2,295",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "562,689",
+      "val": "564,009",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,34 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Brad",
+      "phone": "2782****936",
+      "logs": 2,
+      "joined": "2026/07/30",
+      "lastActive": "2026-07-30",
+      "goal": 1946,
+      "age": 34,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-30T08:44:36.086Z"
+    },
+    {
+      "name": "Maud",
+      "phone": "2767****650",
+      "logs": 1,
+      "joined": "2026/07/30",
+      "lastActive": "2026-07-30",
+      "goal": 1481,
+      "age": 52,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-07-30T08:36:57.017Z"
+    },
     {
       "name": "Adine",
       "phone": "2772****100",
