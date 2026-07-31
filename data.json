@@ -1,5 +1,5 @@
 {
-  "updated": "2026/07/31, 10:04:11",
+  "updated": "2026/07/31, 12:04:08",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,303",
+      "val": "2,305",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "566,589",
+      "val": "567,239",
       "color": "blue"
     },
     "Bot Status": {
@@ -122,9 +122,9 @@
     {
       "name": "Maud",
       "phone": "2767****650",
-      "logs": 2,
+      "logs": 3,
       "joined": "2026/07/30",
-      "lastActive": "2026-07-30",
+      "lastActive": "2026-07-31",
       "goal": 1481,
       "age": 52,
       "gender": "female",
@@ -2280,7 +2280,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 418,
+      "logs": 419,
       "joined": "2026/03/23",
       "lastActive": "2026-07-31",
       "goal": 1999,
@@ -4137,14 +4137,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "5"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "20",
-        "pageviews": "29"
+        "sessions": "27",
+        "users": "21",
+        "pageviews": "30"
       }
     },
     "PaidProperly": {
