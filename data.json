@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/01, 14:04:08",
+  "updated": "2026/08/01, 16:04:15",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,8 +64,8 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
       "val": "9",
@@ -110,7 +110,7 @@
       "phone": "2773****412",
       "logs": 1,
       "joined": "2026/07/31",
-      "lastActive": "2026-07-31",
+      "lastActive": "2026-08-01",
       "goal": 1263,
       "age": 34,
       "gender": "female",
@@ -4175,14 +4175,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "23",
-        "users": "23",
-        "pageviews": "25"
+        "sessions": "24",
+        "users": "24",
+        "pageviews": "30"
       },
       "weekly": {
-        "sessions": "225",
-        "users": "220",
-        "pageviews": "271"
+        "sessions": "226",
+        "users": "221",
+        "pageviews": "276"
       }
     },
     "RetirementSorted": {
