@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/01, 22:04:13",
+  "updated": "2026/08/02, 00:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "9 active",
+      "traffic": "10 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "290",
+      "val": "291",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "5",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "9",
+      "val": "10",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,321",
+      "val": "2,322",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "9",
+      "val": "10",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "571,909",
+      "val": "571,949",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Maria",
+      "phone": "2784****806",
+      "logs": 1,
+      "joined": "2026/08/01",
+      "lastActive": "2026-08-01",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-01T21:20:32.094Z"
+    },
     {
       "name": "Nadine",
       "phone": "2773****412",
@@ -4099,11 +4113,11 @@
       17
     ],
     [
-      "boiled egg (1 large) (1 egg)",
-      16
+      "tea with milk",
+      17
     ],
     [
-      "tea with milk",
+      "boiled egg (1 large) (1 egg)",
       16
     ],
     [
@@ -4151,50 +4165,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "5",
-        "pageviews": "5"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "3"
       },
       "weekly": {
         "sessions": "28",
-        "users": "21",
-        "pageviews": "31"
+        "users": "22",
+        "pageviews": "29"
       }
     },
     "PaidProperly": {
       "daily": {
         "sessions": "22",
-        "users": "21",
-        "pageviews": "26"
+        "users": "18",
+        "pageviews": "43"
       },
       "weekly": {
-        "sessions": "121",
-        "users": "112",
-        "pageviews": "183"
+        "sessions": "133",
+        "users": "120",
+        "pageviews": "216"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "24",
-        "users": "24",
-        "pageviews": "30"
+        "sessions": "18",
+        "users": "17",
+        "pageviews": "28"
       },
       "weekly": {
-        "sessions": "226",
-        "users": "221",
-        "pageviews": "276"
+        "sessions": "223",
+        "users": "218",
+        "pageviews": "272"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "9",
-        "users": "8",
-        "pageviews": "9"
+        "sessions": "5",
+        "users": "3",
+        "pageviews": "19"
       },
       "weekly": {
-        "sessions": "44",
-        "users": "40",
-        "pageviews": "56"
+        "sessions": "48",
+        "users": "43",
+        "pageviews": "74"
       }
     },
     "CryptoCasinoSorted": {
