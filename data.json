@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/03, 12:04:10",
+  "updated": "2026/08/03, 14:04:14",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,328",
+      "val": "2,331",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "573,839",
+      "val": "574,299",
       "color": "blue"
     },
     "Bot Status": {
@@ -2308,9 +2308,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 436,
+      "logs": 439,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-02",
+      "lastActive": "2026-08-03",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4101,11 +4101,11 @@
   ],
   "fitsortedTopFoods": [
     [
-      "coffee with milk (1 cup)",
-      45
+      "diet protein shake (1 scoop)",
+      47
     ],
     [
-      "diet protein shake (1 scoop)",
+      "coffee with milk (1 cup)",
       45
     ],
     [
@@ -4125,11 +4125,11 @@
       15
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
-      11
+      "handful of almonds (~28g)",
+      12
     ],
     [
-      "handful of almonds (~28g)",
+      "oats (1 cup cooked) (1 cup)",
       11
     ],
     [
@@ -4215,12 +4215,12 @@
       "daily": {
         "sessions": "5",
         "users": "5",
-        "pageviews": "6"
+        "pageviews": "5"
       },
       "weekly": {
-        "sessions": "42",
+        "sessions": "41",
         "users": "35",
-        "pageviews": "65"
+        "pageviews": "64"
       }
     }
   },
