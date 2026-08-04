@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/04, 18:04:09",
+  "updated": "2026/08/04, 20:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "292",
+      "val": "293",
       "color": "green"
     },
     "Active (24h)": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Nozipho",
+      "phone": "2763****053",
+      "logs": 0,
+      "joined": "2026/08/04",
+      "lastActive": "never",
+      "goal": 1588,
+      "age": 30,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-08-04T17:48:31.681Z"
+    },
     {
       "name": "Unknown",
       "phone": "2762****027",
