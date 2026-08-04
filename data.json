@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/04, 12:04:10",
+  "updated": "2026/08/04, 14:04:08",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,336",
+      "val": "2,338",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "575,989",
+      "val": "576,639",
       "color": "blue"
     },
     "Bot Status": {
@@ -2308,7 +2308,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 444,
+      "logs": 446,
       "joined": "2026/03/23",
       "lastActive": "2026-08-04",
       "goal": 1999,
@@ -4189,14 +4189,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "19",
-        "users": "16",
-        "pageviews": "24"
+        "sessions": "21",
+        "users": "18",
+        "pageviews": "32"
       },
       "weekly": {
-        "sessions": "128",
-        "users": "117",
-        "pageviews": "169"
+        "sessions": "130",
+        "users": "119",
+        "pageviews": "177"
       }
     },
     "RetirementSorted": {
