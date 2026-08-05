@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/05, 08:04:09",
+  "updated": "2026/08/05, 10:04:13",
   "projects": [
     {
       "name": "FitSorted",
@@ -4215,14 +4215,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "31",
-        "users": "30",
-        "pageviews": "35"
+        "sessions": "32",
+        "users": "31",
+        "pageviews": "39"
       },
       "weekly": {
-        "sessions": "139",
-        "users": "128",
-        "pageviews": "187"
+        "sessions": "140",
+        "users": "129",
+        "pageviews": "191"
       }
     },
     "RetirementSorted": {
