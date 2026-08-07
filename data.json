@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/07, 12:04:07",
+  "updated": "2026/08/07, 14:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,349",
+      "val": "2,355",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "582,159",
+      "val": "583,872",
       "color": "blue"
     },
     "Bot Status": {
@@ -108,9 +108,9 @@
     {
       "name": "Kea",
       "phone": "2771****737",
-      "logs": 1,
+      "logs": 5,
       "joined": "2026/08/06",
-      "lastActive": "2026-08-06",
+      "lastActive": "2026-08-07",
       "goal": 1857,
       "age": 18,
       "gender": "female",
@@ -2348,7 +2348,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 456,
+      "logs": 458,
       "joined": "2026/03/23",
       "lastActive": "2026-08-07",
       "goal": 1999,
@@ -4181,15 +4181,15 @@
       9
     ],
     [
+      "mutton curry",
+      9
+    ],
+    [
       "3x eggs",
       8
     ],
     [
       "avocado (1 medium)",
-      8
-    ],
-    [
-      "mutton curry",
       8
     ],
     [
