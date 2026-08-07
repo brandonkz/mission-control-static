@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/07, 22:04:10",
+  "updated": "2026/08/08, 00:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,356",
+      "val": "2,357",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "8",
+      "val": "9",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "583,912",
+      "val": "584,572",
       "color": "blue"
     },
     "Bot Status": {
@@ -2348,7 +2348,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 459,
+      "logs": 460,
       "joined": "2026/03/23",
       "lastActive": "2026-08-07",
       "goal": 1999,
@@ -4205,50 +4205,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "3"
+        "sessions": "21",
+        "users": "19",
+        "pageviews": "21"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "23",
-        "pageviews": "26"
+        "sessions": "21",
+        "users": "19",
+        "pageviews": "21"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "31",
-        "users": "29",
-        "pageviews": "47"
+        "sessions": "25",
+        "users": "24",
+        "pageviews": "41"
       },
       "weekly": {
-        "sessions": "182",
-        "users": "154",
-        "pageviews": "358"
+        "sessions": "185",
+        "users": "155",
+        "pageviews": "373"
       }
     },
     "BetSorted": {
       "daily": {
         "sessions": "29",
         "users": "23",
-        "pageviews": "51"
+        "pageviews": "45"
       },
       "weekly": {
-        "sessions": "169",
-        "users": "147",
-        "pageviews": "246"
+        "sessions": "174",
+        "users": "145",
+        "pageviews": "261"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "7",
-        "users": "6",
-        "pageviews": "7"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "62",
-        "users": "47",
-        "pageviews": "76"
+        "sessions": "57",
+        "users": "42",
+        "pageviews": "73"
       }
     },
     "CryptoCasinoSorted": {
