@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/08, 00:04:07",
+  "updated": "2026/08/08, 02:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "2 active",
       "trafficColor": "green"
     },
     {
@@ -64,12 +64,12 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
-      "color": "green"
+      "val": "2",
+      "color": "orange"
     },
     "Premium Users": {
       "val": "3",
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "9",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -156,7 +156,7 @@
       "gender": "",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-08-01T21:20:32.094Z"
     },
     {
@@ -170,7 +170,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-07-31T13:30:45.187Z"
     },
     {
@@ -184,7 +184,7 @@
       "gender": "male",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-07-30T08:44:36.086Z"
     },
     {
@@ -198,7 +198,7 @@
       "gender": "female",
       "email": "",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-07-30T08:36:57.017Z"
     },
     {
@@ -4229,38 +4229,38 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "29",
-        "users": "23",
-        "pageviews": "45"
+        "sessions": "30",
+        "users": "24",
+        "pageviews": "47"
       },
       "weekly": {
-        "sessions": "174",
-        "users": "145",
-        "pageviews": "261"
+        "sessions": "175",
+        "users": "146",
+        "pageviews": "263"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "4",
+        "sessions": "5",
         "users": "4",
-        "pageviews": "6"
+        "pageviews": "14"
       },
       "weekly": {
-        "sessions": "57",
+        "sessions": "58",
         "users": "42",
-        "pageviews": "73"
+        "pageviews": "81"
       }
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "3"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "5"
       },
       "weekly": {
-        "sessions": "31",
-        "users": "28",
-        "pageviews": "37"
+        "sessions": "24",
+        "users": "23",
+        "pageviews": "29"
       }
     }
   },
@@ -4288,19 +4288,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "3,716",
+      "val": "2,750",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$2.3M",
+      "val": "$1.4M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "25 (>$10K)",
+      "val": "21 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "8",
+      "val": "7",
       "color": "blue"
     }
   },
