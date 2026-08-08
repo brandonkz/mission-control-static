@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/08, 10:04:12",
+  "updated": "2026/08/08, 12:04:10",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,357",
+      "val": "2,360",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "584,572",
+      "val": "585,052",
       "color": "blue"
     },
     "Bot Status": {
@@ -108,9 +108,9 @@
     {
       "name": "Kea",
       "phone": "2771****737",
-      "logs": 5,
+      "logs": 6,
       "joined": "2026/08/06",
-      "lastActive": "2026-08-07",
+      "lastActive": "2026-08-08",
       "goal": 1857,
       "age": 18,
       "gender": "female",
@@ -2348,9 +2348,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 460,
+      "logs": 462,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-07",
+      "lastActive": "2026-08-08",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4142,7 +4142,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      51
+      52
     ],
     [
       "coffee with milk (1 cup)",
@@ -4185,15 +4185,15 @@
       9
     ],
     [
+      "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
+      9
+    ],
+    [
       "3x eggs",
       8
     ],
     [
       "avocado (1 medium)",
-      8
-    ],
-    [
-      "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
       8
     ],
     [
