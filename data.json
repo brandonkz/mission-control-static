@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/09, 10:04:11",
+  "updated": "2026/08/09, 12:04:08",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "2 active",
+      "traffic": "3 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "294",
+      "val": "295",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,363",
+      "val": "2,378",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
-      "color": "orange"
+      "val": "15",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "586,952",
+      "val": "588,776",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Megan",
+      "phone": "2760****021",
+      "logs": 14,
+      "joined": "2026/08/09",
+      "lastActive": "2026-08-09",
+      "goal": 1011,
+      "age": 34,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-09T08:49:04.177Z"
+    },
     {
       "name": "Kea",
       "phone": "2771****737",
@@ -2348,9 +2362,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 465,
+      "logs": 466,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-08",
+      "lastActive": "2026-08-09",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4142,7 +4156,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      52
+      53
     ],
     [
       "coffee with milk (1 cup)",
