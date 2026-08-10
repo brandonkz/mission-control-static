@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/10, 14:04:09",
+  "updated": "2026/08/10, 16:04:14",
   "projects": [
     {
       "name": "FitSorted",
@@ -84,7 +84,7 @@
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "595,446",
+      "val": "593,696",
       "color": "blue"
     },
     "Bot Status": {
@@ -4235,12 +4235,12 @@
       "daily": {
         "sessions": "7",
         "users": "5",
-        "pageviews": "5"
+        "pageviews": "6"
       },
       "weekly": {
         "sessions": "26",
         "users": "22",
-        "pageviews": "24"
+        "pageviews": "25"
       }
     },
     "PaidProperly": {
