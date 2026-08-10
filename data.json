@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/10, 22:04:13",
+  "updated": "2026/08/11, 00:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -4233,49 +4233,49 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "7",
-        "users": "5",
-        "pageviews": "6"
+        "sessions": "22",
+        "users": "19",
+        "pageviews": "22"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "22",
-        "pageviews": "25"
+        "sessions": "22",
+        "users": "19",
+        "pageviews": "22"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "23",
-        "users": "19",
-        "pageviews": "46"
+        "sessions": "24",
+        "users": "24",
+        "pageviews": "38"
       },
       "weekly": {
-        "sessions": "188",
-        "users": "158",
-        "pageviews": "403"
+        "sessions": "178",
+        "users": "153",
+        "pageviews": "367"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "22",
-        "users": "19",
-        "pageviews": "25"
+        "sessions": "20",
+        "users": "20",
+        "pageviews": "37"
       },
       "weekly": {
-        "sessions": "186",
-        "users": "155",
-        "pageviews": "262"
+        "sessions": "185",
+        "users": "152",
+        "pageviews": "267"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "4",
-        "users": "3",
-        "pageviews": "4"
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "10"
       },
       "weekly": {
-        "sessions": "62",
-        "users": "45",
+        "sessions": "55",
+        "users": "39",
         "pageviews": "75"
       }
     },
