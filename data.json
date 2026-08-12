@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/12, 12:04:11",
+  "updated": "2026/08/12, 14:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,408",
+      "val": "2,413",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "5",
+      "val": "10",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "596,316",
+      "val": "597,786",
       "color": "blue"
     },
     "Bot Status": {
@@ -108,7 +108,7 @@
     {
       "name": "Jac",
       "phone": "2784****099",
-      "logs": 3,
+      "logs": 7,
       "joined": "2026/08/12",
       "lastActive": "2026-08-12",
       "goal": 1746,
@@ -2390,7 +2390,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 487,
+      "logs": 488,
       "joined": "2026/03/23",
       "lastActive": "2026-08-12",
       "goal": 1999,
@@ -4249,12 +4249,12 @@
       "daily": {
         "sessions": "3",
         "users": "3",
-        "pageviews": "2"
+        "pageviews": "3"
       },
       "weekly": {
         "sessions": "18",
         "users": "16",
-        "pageviews": "16"
+        "pageviews": "17"
       }
     },
     "PaidProperly": {
@@ -4273,12 +4273,12 @@
       "daily": {
         "sessions": "18",
         "users": "16",
-        "pageviews": "40"
+        "pageviews": "41"
       },
       "weekly": {
         "sessions": "172",
         "users": "140",
-        "pageviews": "274"
+        "pageviews": "275"
       }
     },
     "RetirementSorted": {
