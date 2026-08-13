@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/13, 12:04:09",
+  "updated": "2026/08/13, 14:04:09",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "8 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "298",
+      "val": "299",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "5",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "6",
+      "val": "8",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,428",
+      "val": "2,437",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "9",
-      "color": "orange"
+      "val": "18",
+      "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "601,668",
+      "val": "604,058",
       "color": "blue"
     },
     "Bot Status": {
@@ -106,6 +106,20 @@
   },
   "fitsortedUsers": [
     {
+      "name": "E",
+      "phone": "2783****956",
+      "logs": 3,
+      "joined": "2026/08/13",
+      "lastActive": "2026-08-13",
+      "goal": 1692,
+      "age": 34,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-13T10:33:59.723Z"
+    },
+    {
       "name": "Chanelle",
       "phone": "2783****155",
       "logs": 6,
@@ -122,7 +136,7 @@
     {
       "name": "Jac",
       "phone": "2784****099",
-      "logs": 11,
+      "logs": 13,
       "joined": "2026/08/12",
       "lastActive": "2026-08-13",
       "goal": 1746,
@@ -2404,7 +2418,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 493,
+      "logs": 494,
       "joined": "2026/03/23",
       "lastActive": "2026-08-13",
       "goal": 1999,
@@ -4155,15 +4169,15 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 56,
+      "logs": 59,
       "joined": "2026/02/23",
-      "lastActive": "2026-07-20",
+      "lastActive": "2026-08-13",
       "goal": 1999,
       "age": 38,
       "gender": "male",
       "email": "",
       "premium": true,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-02-23T10:19:56.887561+00:00"
     },
     {
@@ -4202,11 +4216,11 @@
     ],
     [
       "coffee with milk (1 cup)",
-      45
+      46
     ],
     [
       "tea with milk",
-      20
+      21
     ],
     [
       "banana (1 medium)",
@@ -4222,7 +4236,7 @@
     ],
     [
       "handful of almonds (~28g)",
-      13
+      14
     ],
     [
       "oats (1 cup cooked) (1 cup)",
@@ -4309,14 +4323,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "4",
-        "pageviews": "8"
+        "sessions": "7",
+        "users": "5",
+        "pageviews": "9"
       },
       "weekly": {
-        "sessions": "25",
-        "users": "22",
-        "pageviews": "30"
+        "sessions": "27",
+        "users": "23",
+        "pageviews": "31"
       }
     }
   },
