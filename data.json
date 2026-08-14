@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/14, 22:04:14",
+  "updated": "2026/08/15, 00:04:09",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "8 active",
+      "traffic": "9 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "8",
+      "val": "9",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,456",
+      "val": "2,462",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "13",
+      "val": "19",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "608,388",
+      "val": "609,718",
       "color": "blue"
     },
     "Bot Status": {
@@ -106,16 +106,17 @@
   },
   "fitsortedUsers": [
     {
-      "name": "Unknown",
+      "name": "I also want to build muscle",
       "phone": "2778****876",
-      "logs": 0,
+      "logs": 6,
       "joined": "2026/08/14",
-      "lastActive": "never",
-      "goal": "?",
+      "lastActive": "2026-08-14",
+      "goal": 597,
       "age": 27,
       "gender": "female",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-08-14T20:03:06.865Z"
     },
     {
@@ -4288,50 +4289,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "6",
-        "users": "6",
-        "pageviews": "6"
+        "sessions": "1",
+        "users": "1",
+        "pageviews": "1"
       },
       "weekly": {
-        "sessions": "20",
-        "users": "18",
-        "pageviews": "19"
+        "sessions": "21",
+        "users": "19",
+        "pageviews": "20"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "47",
-        "users": "41",
-        "pageviews": "89"
+        "sessions": "30",
+        "users": "27",
+        "pageviews": "34"
       },
       "weekly": {
-        "sessions": "236",
-        "users": "204",
-        "pageviews": "546"
+        "sessions": "239",
+        "users": "206",
+        "pageviews": "537"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "36",
-        "users": "32",
-        "pageviews": "45"
+        "sessions": "24",
+        "users": "24",
+        "pageviews": "25"
       },
       "weekly": {
-        "sessions": "177",
-        "users": "147",
-        "pageviews": "264"
+        "sessions": "171",
+        "users": "150",
+        "pageviews": "242"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "10",
-        "users": "10",
-        "pageviews": "10"
+        "sessions": "7",
+        "users": "7",
+        "pageviews": "9"
       },
       "weekly": {
-        "sessions": "52",
-        "users": "39",
-        "pageviews": "76"
+        "sessions": "55",
+        "users": "41",
+        "pageviews": "69"
       }
     },
     "CryptoCasinoSorted": {
