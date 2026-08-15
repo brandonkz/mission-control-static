@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/15, 12:04:10",
+  "updated": "2026/08/15, 14:04:10",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,464",
+      "val": "2,469",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "609,870",
+      "val": "611,250",
       "color": "blue"
     },
     "Bot Status": {
@@ -150,13 +150,13 @@
     {
       "name": "Jac",
       "phone": "2784****099",
-      "logs": 26,
+      "logs": 31,
       "joined": "2026/08/12",
-      "lastActive": "2026-08-14",
+      "lastActive": "2026-08-15",
       "goal": 1746,
       "age": 56,
       "gender": "male",
-      "email": "",
+      "email": "africamoon@pm.me",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-08-12T05:28:16.095Z"
@@ -4339,12 +4339,12 @@
       "daily": {
         "sessions": "3",
         "users": "3",
-        "pageviews": "3"
+        "pageviews": "4"
       },
       "weekly": {
         "sessions": "28",
         "users": "24",
-        "pageviews": "32"
+        "pageviews": "33"
       }
     }
   },
