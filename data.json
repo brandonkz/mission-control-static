@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/17, 00:04:08",
+  "updated": "2026/08/17, 02:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "8",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -4316,24 +4316,24 @@
       "daily": {
         "sessions": "25",
         "users": "22",
-        "pageviews": "59"
+        "pageviews": "61"
       },
       "weekly": {
         "sessions": "246",
         "users": "212",
-        "pageviews": "526"
+        "pageviews": "528"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "13",
-        "users": "13",
-        "pageviews": "13"
+        "sessions": "14",
+        "users": "14",
+        "pageviews": "14"
       },
       "weekly": {
-        "sessions": "154",
-        "users": "136",
-        "pageviews": "225"
+        "sessions": "155",
+        "users": "137",
+        "pageviews": "226"
       }
     },
     "RetirementSorted": {
@@ -4350,14 +4350,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "2",
+        "users": "2",
+        "pageviews": "2"
       },
       "weekly": {
-        "sessions": "28",
-        "users": "24",
-        "pageviews": "33"
+        "sessions": "27",
+        "users": "23",
+        "pageviews": "32"
       }
     }
   },
@@ -4385,19 +4385,19 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "2,168",
+      "val": "2,823",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$5.0M",
+      "val": "$3.0M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "32 (>$10K)",
+      "val": "53 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
-      "val": "6",
+      "val": "7",
       "color": "blue"
     }
   },
