@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/17, 22:04:15",
+  "updated": "2026/08/18, 00:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -127,7 +127,7 @@
       "goal": 597,
       "age": 27,
       "gender": "female",
-      "email": "",
+      "email": "bsmnww@gmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-08-14T20:03:06.865Z"
@@ -4302,50 +4302,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "11",
-        "users": "9",
-        "pageviews": "12"
+        "sessions": "4",
+        "users": "3",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "25",
-        "users": "23",
-        "pageviews": "26"
+        "sessions": "29",
+        "users": "26",
+        "pageviews": "30"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "25",
-        "users": "22",
-        "pageviews": "68"
+        "sessions": "43",
+        "users": "38",
+        "pageviews": "64"
       },
       "weekly": {
-        "sessions": "246",
-        "users": "212",
-        "pageviews": "535"
+        "sessions": "260",
+        "users": "222",
+        "pageviews": "497"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "15",
-        "users": "15",
-        "pageviews": "16"
+        "sessions": "30",
+        "users": "27",
+        "pageviews": "35"
       },
       "weekly": {
-        "sessions": "156",
-        "users": "138",
-        "pageviews": "228"
+        "sessions": "166",
+        "users": "144",
+        "pageviews": "222"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "18",
-        "users": "16",
-        "pageviews": "26"
+        "sessions": "12",
+        "users": "12",
+        "pageviews": "11"
       },
       "weekly": {
-        "sessions": "60",
-        "users": "49",
-        "pageviews": "80"
+        "sessions": "65",
+        "users": "57",
+        "pageviews": "78"
       }
     },
     "CryptoCasinoSorted": {
