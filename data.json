@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/18, 16:04:17",
+  "updated": "2026/08/18, 18:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "303",
+      "val": "304",
       "color": "green"
     },
     "Active (24h)": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Bertus",
+      "phone": "2764****689",
+      "logs": 0,
+      "joined": "2026/08/18",
+      "lastActive": "never",
+      "goal": 2173,
+      "age": 38,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-08-18T15:59:03.394Z"
+    },
     {
       "name": "Unknown",
       "phone": "2760****084",
