@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/18, 08:04:10",
+  "updated": "2026/08/18, 10:04:14",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,501",
+      "val": "2,502",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "619,917",
+      "val": "620,067",
       "color": "blue"
     },
     "Bot Status": {
@@ -2458,9 +2458,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 513,
+      "logs": 514,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-17",
+      "lastActive": "2026-08-18",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4252,7 +4252,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      59
+      60
     ],
     [
       "coffee with milk (1 cup)",
@@ -4339,14 +4339,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "30",
-        "users": "27",
-        "pageviews": "35"
+        "sessions": "32",
+        "users": "29",
+        "pageviews": "41"
       },
       "weekly": {
-        "sessions": "166",
-        "users": "144",
-        "pageviews": "222"
+        "sessions": "168",
+        "users": "146",
+        "pageviews": "228"
       }
     },
     "RetirementSorted": {
