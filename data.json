@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/18, 10:04:14",
+  "updated": "2026/08/18, 12:04:13",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,7 +60,7 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "302",
+      "val": "303",
       "color": "green"
     },
     "Active (24h)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,502",
+      "val": "2,503",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "620,067",
+      "val": "620,317",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Unknown",
+      "phone": "2760****084",
+      "logs": 0,
+      "joined": "2026/08/18",
+      "lastActive": "never",
+      "goal": "?",
+      "age": "",
+      "gender": "",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-08-18T08:41:54.941Z"
+    },
     {
       "name": "I lose 1kg a week",
       "phone": "2783****833",
@@ -2458,7 +2471,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 514,
+      "logs": 515,
       "joined": "2026/03/23",
       "lastActive": "2026-08-18",
       "goal": 1999,
@@ -4327,14 +4340,14 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "44",
-        "users": "39",
-        "pageviews": "67"
+        "sessions": "46",
+        "users": "41",
+        "pageviews": "80"
       },
       "weekly": {
-        "sessions": "261",
-        "users": "223",
-        "pageviews": "500"
+        "sessions": "263",
+        "users": "225",
+        "pageviews": "513"
       }
     },
     "BetSorted": {
