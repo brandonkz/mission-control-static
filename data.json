@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/19, 10:04:13",
+  "updated": "2026/08/19, 12:04:11",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "9 active",
+      "traffic": "10 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "306",
+      "val": "307",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "3",
-      "color": "orange"
+      "val": "4",
+      "color": "green"
     },
     "Active (7d)": {
-      "val": "9",
+      "val": "10",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,518",
+      "val": "2,519",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "4",
+      "val": "5",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "623,772",
+      "val": "623,922",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Francois",
+      "phone": "2766****761",
+      "logs": 1,
+      "joined": "2026/08/19",
+      "lastActive": "2026-08-19",
+      "goal": 3342,
+      "age": 32,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-19T09:07:06.723Z"
+    },
     {
       "name": "Izea",
       "phone": "2776****892",
@@ -4370,14 +4384,14 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "5",
-        "users": "4",
-        "pageviews": "7"
+        "sessions": "8",
+        "users": "6",
+        "pageviews": "9"
       },
       "weekly": {
-        "sessions": "34",
-        "users": "28",
-        "pageviews": "37"
+        "sessions": "37",
+        "users": "30",
+        "pageviews": "39"
       }
     },
     "PaidProperly": {
