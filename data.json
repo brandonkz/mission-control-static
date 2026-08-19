@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/19, 08:04:10",
+  "updated": "2026/08/19, 10:04:13",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "8 active",
+      "traffic": "9 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "305",
+      "val": "306",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "8",
+      "val": "9",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,514",
+      "val": "2,518",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "622,772",
+      "val": "623,772",
       "color": "blue"
     },
     "Bot Status": {
@@ -106,11 +106,25 @@
   },
   "fitsortedUsers": [
     {
+      "name": "Izea",
+      "phone": "2776****892",
+      "logs": 1,
+      "joined": "2026/08/19",
+      "lastActive": "2026-08-19",
+      "goal": 1711,
+      "age": 27,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-19T06:41:58.020Z"
+    },
+    {
       "name": "Tashen",
       "phone": "2776****277",
-      "logs": 7,
+      "logs": 9,
       "joined": "2026/08/18",
-      "lastActive": "2026-08-18",
+      "lastActive": "2026-08-19",
       "goal": 2126,
       "age": 24,
       "gender": "male",
@@ -2499,9 +2513,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 517,
+      "logs": 518,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-18",
+      "lastActive": "2026-08-19",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4368,38 +4382,38 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "40",
-        "users": "36",
-        "pageviews": "60"
+        "sessions": "43",
+        "users": "39",
+        "pageviews": "73"
       },
       "weekly": {
-        "sessions": "259",
-        "users": "220",
-        "pageviews": "497"
+        "sessions": "262",
+        "users": "222",
+        "pageviews": "510"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "20",
-        "users": "18",
-        "pageviews": "52"
+        "sessions": "21",
+        "users": "19",
+        "pageviews": "55"
       },
       "weekly": {
-        "sessions": "170",
-        "users": "146",
-        "pageviews": "239"
+        "sessions": "171",
+        "users": "147",
+        "pageviews": "242"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "14",
+        "sessions": "15",
         "users": "13",
-        "pageviews": "13"
+        "pageviews": "15"
       },
       "weekly": {
-        "sessions": "73",
+        "sessions": "74",
         "users": "62",
-        "pageviews": "85"
+        "pageviews": "87"
       }
     },
     "CryptoCasinoSorted": {
