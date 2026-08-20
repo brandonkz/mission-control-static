@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/20, 08:04:10",
+  "updated": "2026/08/20, 10:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,525",
+      "val": "2,526",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "625,472",
+      "val": "625,622",
       "color": "blue"
     },
     "Bot Status": {
@@ -111,9 +111,9 @@
       "logs": 2,
       "joined": "2026/08/19",
       "lastActive": "2026-08-19",
-      "goal": 3532,
-      "age": 35,
-      "gender": "male",
+      "goal": "?",
+      "age": "",
+      "gender": "",
       "email": "",
       "premium": false,
       "active7d": true,
@@ -2541,9 +2541,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 521,
+      "logs": 522,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-19",
+      "lastActive": "2026-08-20",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4335,7 +4335,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      60
+      61
     ],
     [
       "coffee with milk (1 cup)",
@@ -4410,26 +4410,26 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "46",
-        "users": "43",
-        "pageviews": "62"
+        "sessions": "48",
+        "users": "45",
+        "pageviews": "71"
       },
       "weekly": {
-        "sessions": "257",
-        "users": "219",
-        "pageviews": "469"
+        "sessions": "260",
+        "users": "221",
+        "pageviews": "478"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "32",
-        "users": "29",
-        "pageviews": "31"
+        "sessions": "34",
+        "users": "31",
+        "pageviews": "34"
       },
       "weekly": {
-        "sessions": "178",
-        "users": "155",
-        "pageviews": "236"
+        "sessions": "180",
+        "users": "157",
+        "pageviews": "239"
       }
     },
     "RetirementSorted": {
