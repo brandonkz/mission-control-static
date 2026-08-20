@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/20, 12:04:10",
+  "updated": "2026/08/20, 14:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "8 active",
+      "traffic": "9 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "308",
+      "val": "309",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "8",
+      "val": "9",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,526",
+      "val": "2,527",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "625,622",
+      "val": "625,872",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Lerato",
+      "phone": "2772****873",
+      "logs": 1,
+      "joined": "2026/08/20",
+      "lastActive": "2026-08-20",
+      "goal": 1517,
+      "age": 37,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-20T10:51:32.545Z"
+    },
     {
       "name": "John",
       "phone": "2765****664",
@@ -4400,12 +4414,12 @@
       "daily": {
         "sessions": "7",
         "users": "7",
-        "pageviews": "6"
+        "pageviews": "8"
       },
       "weekly": {
         "sessions": "42",
         "users": "33",
-        "pageviews": "43"
+        "pageviews": "45"
       }
     },
     "PaidProperly": {
