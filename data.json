@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/22, 14:04:12",
+  "updated": "2026/08/22, 16:04:14",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "10 active",
+      "traffic": "11 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "10",
+      "val": "11",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,542",
+      "val": "2,543",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "630,332",
+      "val": "630,582",
       "color": "blue"
     },
     "Bot Status": {
@@ -190,16 +190,17 @@
       "joinedRaw": "2026-08-18T15:59:03.394Z"
     },
     {
-      "name": "Unknown",
+      "name": "Thabiso",
       "phone": "2760****084",
-      "logs": 0,
+      "logs": 1,
       "joined": "2026/08/18",
-      "lastActive": "never",
-      "goal": "?",
-      "age": "",
-      "gender": "",
+      "lastActive": "2026-08-22",
+      "goal": 1563,
+      "age": 24,
+      "gender": "male",
       "email": "",
       "premium": false,
+      "active7d": true,
       "joinedRaw": "2026-08-18T08:41:54.941Z"
     },
     {
@@ -4448,12 +4449,12 @@
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "8",
+        "sessions": "9",
         "users": "8",
         "pageviews": "8"
       },
       "weekly": {
-        "sessions": "86",
+        "sessions": "87",
         "users": "70",
         "pageviews": "106"
       }
