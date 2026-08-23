@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/23, 00:04:11",
+  "updated": "2026/08/23, 02:04:14",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "11 active",
+      "traffic": "10 active",
       "trafficColor": "green"
     },
     {
@@ -64,11 +64,11 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "0",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "11",
+      "val": "10",
       "color": "green"
     },
     "Premium Users": {
@@ -80,7 +80,7 @@
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "5",
+      "val": "0",
       "color": "orange"
     },
     "Total Calories Tracked": {
@@ -282,7 +282,7 @@
       "gender": "male",
       "email": "africamoon@pm.me",
       "premium": false,
-      "active7d": true,
+      "active7d": false,
       "joinedRaw": "2026-08-12T05:28:16.095Z"
     },
     {
@@ -4425,14 +4425,14 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "13",
-        "users": "12",
-        "pageviews": "21"
+        "sessions": "14",
+        "users": "13",
+        "pageviews": "22"
       },
       "weekly": {
-        "sessions": "234",
-        "users": "202",
-        "pageviews": "434"
+        "sessions": "235",
+        "users": "203",
+        "pageviews": "435"
       }
     },
     "BetSorted": {
@@ -4461,14 +4461,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "8",
-        "users": "6",
-        "pageviews": "14"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "38",
-        "users": "24",
-        "pageviews": "68"
+        "sessions": "41",
+        "users": "26",
+        "pageviews": "71"
       }
     }
   },
@@ -4496,15 +4496,15 @@
   },
   "cryptoCasinos": {
     "Deposits Today": {
-      "val": "1,926",
+      "val": "2,914",
       "color": "purple"
     },
     "Total Volume": {
-      "val": "$1.2M",
+      "val": "$1.7M",
       "color": "green"
     },
     "Whale Deposits": {
-      "val": "16 (>$10K)",
+      "val": "23 (>$10K)",
       "color": "orange"
     },
     "Casinos Tracked": {
