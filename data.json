@@ -1,11 +1,11 @@
 {
-  "updated": "2026/08/24, 20:04:12",
+  "updated": "2026/08/24, 22:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "10 active",
+      "traffic": "11 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "312",
+      "val": "313",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "4",
+      "val": "6",
       "color": "green"
     },
     "Active (7d)": {
-      "val": "10",
+      "val": "11",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,568",
+      "val": "2,570",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "18",
+      "val": "20",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "636,567",
+      "val": "642,067",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Tshepiso",
+      "phone": "2764****134",
+      "logs": 1,
+      "joined": "2026/08/24",
+      "lastActive": "2026-08-24",
+      "goal": 1941,
+      "age": 20,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-08-24T18:27:47.291Z"
+    },
     {
       "name": "Pula",
       "phone": "2677****425",
@@ -4347,9 +4361,9 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 62,
+      "logs": 63,
       "joined": "2026/02/23",
-      "lastActive": "2026-08-20",
+      "lastActive": "2026-08-24",
       "goal": 1999,
       "age": 38,
       "gender": "male",
