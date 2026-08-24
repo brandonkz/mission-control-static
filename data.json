@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/24, 10:04:15",
+  "updated": "2026/08/24, 12:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,551",
+      "val": "2,553",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "1",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "632,862",
+      "val": "633,362",
       "color": "blue"
     },
     "Bot Status": {
@@ -121,13 +121,13 @@
     {
       "name": "Lerato",
       "phone": "2772****873",
-      "logs": 3,
+      "logs": 5,
       "joined": "2026/08/20",
-      "lastActive": "2026-08-20",
+      "lastActive": "2026-08-24",
       "goal": 1517,
       "age": 37,
       "gender": "female",
-      "email": "",
+      "email": "lerato.mokwana24@gmail.com",
       "premium": false,
       "active7d": true,
       "joinedRaw": "2026-08-20T10:51:32.545Z"
@@ -4450,14 +4450,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "30",
-        "users": "30",
-        "pageviews": "44"
+        "sessions": "31",
+        "users": "31",
+        "pageviews": "47"
       },
       "weekly": {
-        "sessions": "198",
-        "users": "172",
-        "pageviews": "288"
+        "sessions": "199",
+        "users": "173",
+        "pageviews": "291"
       }
     },
     "RetirementSorted": {
