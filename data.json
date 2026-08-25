@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/25, 20:04:12",
+  "updated": "2026/08/25, 22:04:16",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,576",
+      "val": "2,578",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "5",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "643,477",
+      "val": "644,767",
       "color": "blue"
     },
     "Bot Status": {
@@ -2624,7 +2624,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 547,
+      "logs": 549,
       "joined": "2026/03/23",
       "lastActive": "2026-08-25",
       "goal": 1999,
@@ -4478,68 +4478,7 @@
     ]
   ],
   "fitsortedErrors": [],
-  "analytics": {
-    "FitSorted": {
-      "daily": {
-        "sessions": "4",
-        "users": "4",
-        "pageviews": "6"
-      },
-      "weekly": {
-        "sessions": "30",
-        "users": "26",
-        "pageviews": "36"
-      }
-    },
-    "PaidProperly": {
-      "daily": {
-        "sessions": "42",
-        "users": "37",
-        "pageviews": "64"
-      },
-      "weekly": {
-        "sessions": "231",
-        "users": "197",
-        "pageviews": "391"
-      }
-    },
-    "BetSorted": {
-      "daily": {
-        "sessions": "37",
-        "users": "26",
-        "pageviews": "142"
-      },
-      "weekly": {
-        "sessions": "204",
-        "users": "166",
-        "pageviews": "392"
-      }
-    },
-    "RetirementSorted": {
-      "daily": {
-        "sessions": "6",
-        "users": "4",
-        "pageviews": "12"
-      },
-      "weekly": {
-        "sessions": "66",
-        "users": "48",
-        "pageviews": "84"
-      }
-    },
-    "CryptoCasinoSorted": {
-      "daily": {
-        "sessions": "9",
-        "users": "7",
-        "pageviews": "10"
-      },
-      "weekly": {
-        "sessions": "55",
-        "users": "36",
-        "pageviews": "84"
-      }
-    }
-  },
+  "analytics": {},
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",
