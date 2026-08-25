@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/25, 10:04:11",
+  "updated": "2026/08/25, 14:04:20",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,573",
+      "val": "2,576",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "5",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "642,917",
+      "val": "643,477",
       "color": "blue"
     },
     "Bot Status": {
@@ -2624,7 +2624,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 544,
+      "logs": 547,
       "joined": "2026/03/23",
       "lastActive": "2026-08-25",
       "goal": 1999,
@@ -4507,24 +4507,24 @@
       "daily": {
         "sessions": "37",
         "users": "26",
-        "pageviews": "141"
+        "pageviews": "142"
       },
       "weekly": {
         "sessions": "204",
         "users": "166",
-        "pageviews": "391"
+        "pageviews": "392"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "5"
+        "sessions": "6",
+        "users": "4",
+        "pageviews": "12"
       },
       "weekly": {
-        "sessions": "63",
+        "sessions": "66",
         "users": "48",
-        "pageviews": "77"
+        "pageviews": "84"
       }
     },
     "CryptoCasinoSorted": {
