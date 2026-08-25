@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/25, 18:04:12",
+  "updated": "2026/08/25, 20:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -4481,26 +4481,26 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "1",
-        "users": "1",
-        "pageviews": "1"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "27",
-        "users": "23",
-        "pageviews": "31"
+        "sessions": "30",
+        "users": "26",
+        "pageviews": "36"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "37",
-        "users": "34",
-        "pageviews": "49"
+        "sessions": "42",
+        "users": "37",
+        "pageviews": "64"
       },
       "weekly": {
-        "sessions": "226",
-        "users": "195",
-        "pageviews": "376"
+        "sessions": "231",
+        "users": "197",
+        "pageviews": "391"
       }
     },
     "BetSorted": {
