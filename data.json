@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/26, 22:04:16",
+  "updated": "2026/08/27, 00:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -4481,50 +4481,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "4",
-        "users": "4",
-        "pageviews": "4"
+        "sessions": "2",
+        "users": "2",
+        "pageviews": "2"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "25",
-        "pageviews": "31"
+        "sessions": "21",
+        "users": "21",
+        "pageviews": "25"
       }
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "30",
-        "users": "27",
-        "pageviews": "37"
+        "sessions": "34",
+        "users": "34",
+        "pageviews": "45"
       },
       "weekly": {
-        "sessions": "218",
-        "users": "183",
-        "pageviews": "355"
+        "sessions": "205",
+        "users": "175",
+        "pageviews": "332"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "58",
-        "users": "47",
-        "pageviews": "147"
+        "sessions": "69",
+        "users": "59",
+        "pageviews": "117"
       },
       "weekly": {
-        "sessions": "253",
-        "users": "203",
-        "pageviews": "528"
+        "sessions": "288",
+        "users": "227",
+        "pageviews": "611"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "13",
-        "users": "10",
-        "pageviews": "19"
+        "sessions": "12",
+        "users": "12",
+        "pageviews": "12"
       },
       "weekly": {
-        "sessions": "64",
-        "users": "46",
-        "pageviews": "88"
+        "sessions": "63",
+        "users": "47",
+        "pageviews": "83"
       }
     },
     "CryptoCasinoSorted": {
