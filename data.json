@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/28, 18:04:14",
+  "updated": "2026/08/28, 20:04:17",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,619",
+      "val": "2,623",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "15",
+      "val": "19",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "654,895",
+      "val": "656,595",
       "color": "blue"
     },
     "Bot Status": {
@@ -122,7 +122,7 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 22,
+      "logs": 25,
       "joined": "2026/08/27",
       "lastActive": "2026-08-28",
       "goal": 2146,
@@ -2652,7 +2652,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 561,
+      "logs": 562,
       "joined": "2026/03/23",
       "lastActive": "2026-08-28",
       "goal": 1999,
@@ -4506,68 +4506,7 @@
     ]
   ],
   "fitsortedErrors": [],
-  "analytics": {
-    "FitSorted": {
-      "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "8"
-      },
-      "weekly": {
-        "sessions": "21",
-        "users": "21",
-        "pageviews": "32"
-      }
-    },
-    "PaidProperly": {
-      "daily": {
-        "sessions": "43",
-        "users": "37",
-        "pageviews": "47"
-      },
-      "weekly": {
-        "sessions": "210",
-        "users": "181",
-        "pageviews": "290"
-      }
-    },
-    "BetSorted": {
-      "daily": {
-        "sessions": "35",
-        "users": "31",
-        "pageviews": "33"
-      },
-      "weekly": {
-        "sessions": "295",
-        "users": "236",
-        "pageviews": "621"
-      }
-    },
-    "RetirementSorted": {
-      "daily": {
-        "sessions": "13",
-        "users": "11",
-        "pageviews": "19"
-      },
-      "weekly": {
-        "sessions": "60",
-        "users": "45",
-        "pageviews": "83"
-      }
-    },
-    "CryptoCasinoSorted": {
-      "daily": {
-        "sessions": "10",
-        "users": "10",
-        "pageviews": "9"
-      },
-      "weekly": {
-        "sessions": "60",
-        "users": "44",
-        "pageviews": "77"
-      }
-    }
-  },
+  "analytics": {},
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",
