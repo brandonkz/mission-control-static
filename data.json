@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/29, 14:04:15",
+  "updated": "2026/08/29, 16:04:17",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,625",
+      "val": "2,630",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "657,025",
+      "val": "658,245",
       "color": "blue"
     },
     "Bot Status": {
@@ -136,9 +136,9 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 25,
+      "logs": 28,
       "joined": "2026/08/27",
-      "lastActive": "2026-08-28",
+      "lastActive": "2026-08-29",
       "goal": 2146,
       "age": 57,
       "gender": "male",
@@ -2666,7 +2666,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 563,
+      "logs": 565,
       "joined": "2026/03/23",
       "lastActive": "2026-08-29",
       "goal": 1999,
@@ -4492,7 +4492,7 @@
     ],
     [
       "mutton curry",
-      11
+      12
     ],
     [
       "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
@@ -4520,7 +4520,68 @@
     ]
   ],
   "fitsortedErrors": [],
-  "analytics": {},
+  "analytics": {
+    "FitSorted": {
+      "daily": {
+        "sessions": "1",
+        "users": "1",
+        "pageviews": "2"
+      },
+      "weekly": {
+        "sessions": "16",
+        "users": "16",
+        "pageviews": "27"
+      }
+    },
+    "PaidProperly": {
+      "daily": {
+        "sessions": "39",
+        "users": "37",
+        "pageviews": "50"
+      },
+      "weekly": {
+        "sessions": "229",
+        "users": "201",
+        "pageviews": "315"
+      }
+    },
+    "BetSorted": {
+      "daily": {
+        "sessions": "28",
+        "users": "24",
+        "pageviews": "51"
+      },
+      "weekly": {
+        "sessions": "294",
+        "users": "229",
+        "pageviews": "642"
+      }
+    },
+    "RetirementSorted": {
+      "daily": {
+        "sessions": "6",
+        "users": "6",
+        "pageviews": "5"
+      },
+      "weekly": {
+        "sessions": "57",
+        "users": "43",
+        "pageviews": "80"
+      }
+    },
+    "CryptoCasinoSorted": {
+      "daily": {
+        "sessions": "5",
+        "users": "5",
+        "pageviews": "7"
+      },
+      "weekly": {
+        "sessions": "57",
+        "users": "47",
+        "pageviews": "70"
+      }
+    }
+  },
   "revenue": {
     "FitSorted MRR": {
       "val": "R0",
