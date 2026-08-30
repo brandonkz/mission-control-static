@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/30, 10:04:17",
+  "updated": "2026/08/30, 12:04:10",
   "projects": [
     {
       "name": "FitSorted",
@@ -60,11 +60,11 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "317",
+      "val": "318",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,635",
+      "val": "2,638",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "3",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "659,850",
+      "val": "660,650",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,19 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Caro",
+      "phone": "2782****194",
+      "logs": 0,
+      "joined": "2026/08/30",
+      "lastActive": "never",
+      "goal": 1674,
+      "age": 43,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "joinedRaw": "2026-08-30T09:12:09.649Z"
+    },
     {
       "name": "Jaco",
       "phone": "2760****912",
@@ -2666,9 +2679,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 567,
+      "logs": 570,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-29",
+      "lastActive": "2026-08-30",
       "goal": 1999,
       "age": 35,
       "gender": "male",
