@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/31, 22:04:08",
+  "updated": "2026/09/01, 00:04:09",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,671",
+      "val": "2,672",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "20",
+      "val": "21",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "668,875",
+      "val": "668,939",
       "color": "blue"
     },
     "Bot Status": {
@@ -176,7 +176,7 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 51,
+      "logs": 52,
       "joined": "2026/08/27",
       "lastActive": "2026-08-31",
       "goal": 2146,
@@ -4563,50 +4563,50 @@
   "analytics": {
     "FitSorted": {
       "daily": {
-        "sessions": "10",
-        "users": "10",
-        "pageviews": "10"
-      },
-      "weekly": {
-        "sessions": "24",
-        "users": "24",
-        "pageviews": "33"
-      }
-    },
-    "PaidProperly": {
-      "daily": {
-        "sessions": "23",
-        "users": "22",
-        "pageviews": "27"
-      },
-      "weekly": {
-        "sessions": "232",
-        "users": "203",
-        "pageviews": "307"
-      }
-    },
-    "BetSorted": {
-      "daily": {
-        "sessions": "28",
-        "users": "28",
-        "pageviews": "29"
-      },
-      "weekly": {
-        "sessions": "297",
-        "users": "230",
-        "pageviews": "621"
-      }
-    },
-    "RetirementSorted": {
-      "daily": {
         "sessions": "4",
         "users": "4",
         "pageviews": "4"
       },
       "weekly": {
+        "sessions": "24",
+        "users": "24",
+        "pageviews": "31"
+      }
+    },
+    "PaidProperly": {
+      "daily": {
+        "sessions": "33",
+        "users": "31",
+        "pageviews": "42"
+      },
+      "weekly": {
+        "sessions": "223",
+        "users": "199",
+        "pageviews": "285"
+      }
+    },
+    "BetSorted": {
+      "daily": {
+        "sessions": "42",
+        "users": "41",
+        "pageviews": "48"
+      },
+      "weekly": {
+        "sessions": "290",
+        "users": "242",
+        "pageviews": "483"
+      }
+    },
+    "RetirementSorted": {
+      "daily": {
+        "sessions": "6",
+        "users": "6",
+        "pageviews": "5"
+      },
+      "weekly": {
         "sessions": "60",
-        "users": "46",
-        "pageviews": "81"
+        "users": "50",
+        "pageviews": "74"
       }
     },
     "CryptoCasinoSorted": {
