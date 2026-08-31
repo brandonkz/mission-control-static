@@ -1,5 +1,5 @@
 {
-  "updated": "2026/08/31, 04:04:18",
+  "updated": "2026/08/31, 06:04:12",
   "projects": [
     {
       "name": "FitSorted",
@@ -4575,24 +4575,24 @@
       "daily": {
         "sessions": "28",
         "users": "28",
-        "pageviews": "28"
+        "pageviews": "29"
       },
       "weekly": {
         "sessions": "294",
         "users": "227",
-        "pageviews": "617"
+        "pageviews": "618"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "3",
-        "users": "3",
-        "pageviews": "3"
+        "sessions": "4",
+        "users": "4",
+        "pageviews": "4"
       },
       "weekly": {
-        "sessions": "59",
-        "users": "45",
-        "pageviews": "80"
+        "sessions": "60",
+        "users": "46",
+        "pageviews": "81"
       }
     },
     "CryptoCasinoSorted": {
