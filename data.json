@@ -1,5 +1,5 @@
 {
-  "updated": "2026/09/01, 08:04:08",
+  "updated": "2026/09/01, 10:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,672",
+      "val": "2,674",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "668,939",
+      "val": "669,269",
       "color": "blue"
     },
     "Bot Status": {
@@ -119,12 +119,12 @@
       "joinedRaw": "2026-09-01T02:31:23.381Z"
     },
     {
-      "name": "Lo",
+      "name": "lo",
       "phone": "2768****189",
       "logs": 4,
       "joined": "2026/08/31",
-      "lastActive": "2026-08-31",
-      "goal": 1926,
+      "lastActive": "2026-09-01",
+      "goal": 1176,
       "age": 23,
       "gender": "female",
       "email": "",
@@ -2719,9 +2719,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 579,
+      "logs": 581,
       "joined": "2026/03/23",
-      "lastActive": "2026-08-31",
+      "lastActive": "2026-09-01",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4513,7 +4513,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      67
+      68
     ],
     [
       "coffee with milk (1 cup)",
@@ -4549,7 +4549,7 @@
     ],
     [
       "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
-      11
+      12
     ],
     [
       "toast (white bread, 2 slices) (2 slices)",
@@ -4607,7 +4607,7 @@
       "weekly": {
         "sessions": "293",
         "users": "245",
-        "pageviews": "487"
+        "pageviews": "488"
       }
     },
     "RetirementSorted": {
