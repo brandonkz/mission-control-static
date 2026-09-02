@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/02, 08:04:09",
+  "updated": "2026/09/02, 10:04:10",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "5 active",
+      "traffic": "6 active",
       "trafficColor": "green"
     },
     {
@@ -64,27 +64,27 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "5",
-      "color": "orange"
+      "val": "6",
+      "color": "green"
     },
     "Premium Users": {
       "val": "3",
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,688",
+      "val": "2,690",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "672,868",
+      "val": "673,068",
       "color": "blue"
     },
     "Bot Status": {
@@ -2719,9 +2719,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 586,
+      "logs": 587,
       "joined": "2026/03/23",
-      "lastActive": "2026-09-01",
+      "lastActive": "2026-09-02",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4470,15 +4470,15 @@
     {
       "name": "Brandon",
       "phone": "2783****970",
-      "logs": 65,
+      "logs": 66,
       "joined": "2026/02/23",
-      "lastActive": "2026-08-26",
+      "lastActive": "2026-09-02",
       "goal": 1999,
       "age": 38,
       "gender": "male",
       "email": "",
       "premium": true,
-      "active7d": false,
+      "active7d": true,
       "joinedRaw": "2026-02-23T10:19:56.887561+00:00"
     },
     {
@@ -4513,11 +4513,11 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      68
+      69
     ],
     [
       "coffee with milk (1 cup)",
-      47
+      48
     ],
     [
       "tea with milk",
