@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/03, 08:04:10",
+  "updated": "2026/09/03, 10:04:11",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "7 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "321",
+      "val": "322",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,701",
+      "val": "2,708",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "7",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "676,758",
+      "val": "677,783",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Brent",
+      "phone": "2778****950",
+      "logs": 6,
+      "joined": "2026/09/03",
+      "lastActive": "2026-09-03",
+      "goal": 2924,
+      "age": 25,
+      "gender": "male",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-09-03T07:07:14.186Z"
+    },
     {
       "name": "Unknown",
       "phone": "2761****775",
@@ -2719,9 +2733,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 591,
+      "logs": 592,
       "joined": "2026/03/23",
-      "lastActive": "2026-09-02",
+      "lastActive": "2026-09-03",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4513,7 +4527,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      69
+      70
     ],
     [
       "coffee with milk (1 cup)",
@@ -4568,7 +4582,7 @@
       8
     ],
     [
-      "avocado (1 medium)",
+      "peanut butter (2 tbsp) (2 tbsp (32g))",
       8
     ]
   ],
@@ -4588,38 +4602,38 @@
     },
     "PaidProperly": {
       "daily": {
-        "sessions": "59",
-        "users": "55",
-        "pageviews": "245"
+        "sessions": "61",
+        "users": "57",
+        "pageviews": "115"
       },
       "weekly": {
-        "sessions": "288",
-        "users": "248",
-        "pageviews": "561"
+        "sessions": "290",
+        "users": "250",
+        "pageviews": "431"
       }
     },
     "BetSorted": {
       "daily": {
-        "sessions": "38",
-        "users": "33",
-        "pageviews": "47"
+        "sessions": "40",
+        "users": "34",
+        "pageviews": "50"
       },
       "weekly": {
-        "sessions": "241",
-        "users": "209",
-        "pageviews": "302"
+        "sessions": "243",
+        "users": "210",
+        "pageviews": "305"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "5",
+        "sessions": "6",
         "users": "5",
-        "pageviews": "5"
+        "pageviews": "6"
       },
       "weekly": {
-        "sessions": "45",
+        "sessions": "46",
         "users": "40",
-        "pageviews": "52"
+        "pageviews": "53"
       }
     },
     "CryptoCasinoSorted": {
