@@ -1,5 +1,5 @@
 {
-  "updated": "2026/09/04, 20:04:11",
+  "updated": "2026/09/04, 22:04:11",
   "projects": [
     {
       "name": "FitSorted",
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,733",
+      "val": "2,735",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "11",
+      "val": "13",
       "color": "green"
     },
     "Total Calories Tracked": {
-      "val": "684,209",
+      "val": "684,819",
       "color": "blue"
     },
     "Bot Status": {
@@ -2733,7 +2733,7 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 601,
+      "logs": 603,
       "joined": "2026/03/23",
       "lastActive": "2026-09-04",
       "goal": 1999,
@@ -4558,11 +4558,11 @@
       13
     ],
     [
-      "oats (1 cup cooked) (1 cup)",
-      12
+      "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
+      13
     ],
     [
-      "low fat yoghurt (1 cup, ~245g) with honey (1 tbsp, ~21g)",
+      "oats (1 cup cooked) (1 cup)",
       12
     ],
     [
