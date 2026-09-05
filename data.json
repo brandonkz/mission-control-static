@@ -1,5 +1,5 @@
 {
-  "updated": "2026/09/05, 08:04:08",
+  "updated": "2026/09/05, 10:04:06",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,735",
+      "val": "2,737",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "684,819",
+      "val": "685,205",
       "color": "blue"
     },
     "Bot Status": {
@@ -203,9 +203,9 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 84,
+      "logs": 86,
       "joined": "2026/08/27",
-      "lastActive": "2026-09-04",
+      "lastActive": "2026-09-05",
       "goal": 2146,
       "age": 57,
       "gender": "male",
@@ -4592,12 +4592,12 @@
       "daily": {
         "sessions": "3",
         "users": "3",
-        "pageviews": "2"
+        "pageviews": "4"
       },
       "weekly": {
         "sessions": "27",
         "users": "24",
-        "pageviews": "28"
+        "pageviews": "30"
       }
     },
     "PaidProperly": {
@@ -4614,14 +4614,14 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "35",
-        "users": "31",
-        "pageviews": "45"
+        "sessions": "36",
+        "users": "32",
+        "pageviews": "48"
       },
       "weekly": {
-        "sessions": "248",
-        "users": "220",
-        "pageviews": "307"
+        "sessions": "249",
+        "users": "221",
+        "pageviews": "310"
       }
     },
     "RetirementSorted": {
