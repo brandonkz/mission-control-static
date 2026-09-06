@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/06, 08:04:09",
+  "updated": "2026/09/06, 10:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "7 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "323",
+      "val": "324",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "1",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,751",
+      "val": "2,756",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "5",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "696,302",
+      "val": "696,977",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Gugu",
+      "phone": "2771****173",
+      "logs": 5,
+      "joined": "2026/09/06",
+      "lastActive": "2026-09-06",
+      "goal": 1671,
+      "age": 27,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-09-06T06:58:59.959Z"
+    },
     {
       "name": "Anne",
       "phone": "2782****301",
