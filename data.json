@@ -1,5 +1,5 @@
 {
-  "updated": "2026/09/07, 14:04:11",
+  "updated": "2026/09/07, 16:04:07",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "1",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,770",
+      "val": "2,777",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "2",
+      "val": "9",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "700,017",
+      "val": "702,487",
       "color": "blue"
     },
     "Bot Status": {
@@ -231,7 +231,7 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 93,
+      "logs": 97,
       "joined": "2026/08/27",
       "lastActive": "2026-09-07",
       "goal": 2146,
@@ -2761,9 +2761,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 617,
+      "logs": 620,
       "joined": "2026/03/23",
-      "lastActive": "2026-09-06",
+      "lastActive": "2026-09-07",
       "goal": 1999,
       "age": 35,
       "gender": "male",
