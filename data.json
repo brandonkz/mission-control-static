@@ -1,5 +1,5 @@
 {
-  "updated": "2026/09/08, 08:04:06",
+  "updated": "2026/09/08, 10:04:08",
   "projects": [
     {
       "name": "FitSorted",
@@ -64,7 +64,7 @@
       "color": "green"
     },
     "Active (24h)": {
-      "val": "0",
+      "val": "2",
       "color": "orange"
     },
     "Active (7d)": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,780",
+      "val": "2,784",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "0",
+      "val": "4",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "703,102",
+      "val": "703,982",
       "color": "blue"
     },
     "Bot Status": {
@@ -231,9 +231,9 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 100,
+      "logs": 103,
       "joined": "2026/08/27",
-      "lastActive": "2026-09-07",
+      "lastActive": "2026-09-08",
       "goal": 2146,
       "age": 57,
       "gender": "male",
@@ -2761,9 +2761,9 @@
     {
       "name": "Andrew",
       "phone": "2783****571",
-      "logs": 620,
+      "logs": 621,
       "joined": "2026/03/23",
-      "lastActive": "2026-09-07",
+      "lastActive": "2026-09-08",
       "goal": 1999,
       "age": 35,
       "gender": "male",
@@ -4555,7 +4555,7 @@
   "fitsortedTopFoods": [
     [
       "diet protein shake (1 scoop)",
-      72
+      73
     ],
     [
       "coffee with milk (1 cup)",
@@ -4642,26 +4642,26 @@
     },
     "BetSorted": {
       "daily": {
-        "sessions": "21",
-        "users": "19",
-        "pageviews": "23"
+        "sessions": "22",
+        "users": "20",
+        "pageviews": "26"
       },
       "weekly": {
-        "sessions": "249",
-        "users": "214",
-        "pageviews": "312"
+        "sessions": "250",
+        "users": "215",
+        "pageviews": "315"
       }
     },
     "RetirementSorted": {
       "daily": {
-        "sessions": "8",
-        "users": "8",
-        "pageviews": "11"
+        "sessions": "10",
+        "users": "9",
+        "pageviews": "13"
       },
       "weekly": {
-        "sessions": "48",
-        "users": "44",
-        "pageviews": "56"
+        "sessions": "50",
+        "users": "45",
+        "pageviews": "58"
       }
     },
     "CryptoCasinoSorted": {
