@@ -1,11 +1,11 @@
 {
-  "updated": "2026/09/08, 12:04:30",
+  "updated": "2026/09/08, 14:04:07",
   "projects": [
     {
       "name": "FitSorted",
       "url": "https://fitsorted.co.za",
       "status": "live",
-      "traffic": "6 active",
+      "traffic": "7 active",
       "trafficColor": "green"
     },
     {
@@ -60,15 +60,15 @@
   ],
   "fitsorted": {
     "Total Users": {
-      "val": "324",
+      "val": "325",
       "color": "green"
     },
     "Active (24h)": {
-      "val": "2",
+      "val": "3",
       "color": "orange"
     },
     "Active (7d)": {
-      "val": "6",
+      "val": "7",
       "color": "green"
     },
     "Premium Users": {
@@ -76,15 +76,15 @@
       "color": "green"
     },
     "Total Logs": {
-      "val": "2,786",
+      "val": "2,790",
       "color": "blue"
     },
     "Today's Logs": {
-      "val": "6",
+      "val": "10",
       "color": "orange"
     },
     "Total Calories Tracked": {
-      "val": "704,412",
+      "val": "705,027",
       "color": "blue"
     },
     "Bot Status": {
@@ -105,6 +105,20 @@
     }
   },
   "fitsortedUsers": [
+    {
+      "name": "Landi",
+      "phone": "2771****600",
+      "logs": 2,
+      "joined": "2026/09/08",
+      "lastActive": "2026-09-08",
+      "goal": 1292,
+      "age": 33,
+      "gender": "female",
+      "email": "",
+      "premium": false,
+      "active7d": true,
+      "joinedRaw": "2026-09-08T11:50:48.128Z"
+    },
     {
       "name": "Gugu",
       "phone": "2771****173",
@@ -231,7 +245,7 @@
     {
       "name": "Anton",
       "phone": "2779****038",
-      "logs": 103,
+      "logs": 105,
       "joined": "2026/08/27",
       "lastActive": "2026-09-08",
       "goal": 2146,
@@ -4666,14 +4680,14 @@
     },
     "CryptoCasinoSorted": {
       "daily": {
-        "sessions": "2",
-        "users": "2",
-        "pageviews": "2"
+        "sessions": "3",
+        "users": "3",
+        "pageviews": "3"
       },
       "weekly": {
-        "sessions": "26",
-        "users": "26",
-        "pageviews": "28"
+        "sessions": "27",
+        "users": "27",
+        "pageviews": "29"
       }
     }
   },
